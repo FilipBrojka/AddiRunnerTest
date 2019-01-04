@@ -11,4 +11,12 @@ public class Obstacle : MonoBehaviour
             print("Player Died!");
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Player"))
+        {
+            print("Player Died!");
+        }
+    }
 }

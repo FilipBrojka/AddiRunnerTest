@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    #region Singleton
     public static GameManager instance;
+
+    public PlatformManager ManagerPlatform;
+    public ScoreManager Score;
 
     private void Awake()
     {
@@ -13,13 +15,8 @@ public class GameManager : MonoBehaviour
         {
             instance = this;
         }
-    }
-    #endregion
 
-    public PlatformManager ManagerPlatform;
-
-    private void Start()
-    {
         ManagerPlatform = GetComponent<PlatformManager>();
+        Score = GetComponent<ScoreManager>();
     }
 }
