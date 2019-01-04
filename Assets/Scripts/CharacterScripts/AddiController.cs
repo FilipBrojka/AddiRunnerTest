@@ -21,11 +21,16 @@ public class AddiController : MonoBehaviour
     public bool Grounded = false;
     public bool IsGliding = false;
 
+    private ScoreManager _scoreManager;
+
     private Rigidbody2D _rigidbody;
     private Animator _addiAC;
 
     private Transform _transform;
 
+    private Vector3 _previousPosition;
+
+    private float _currentDistanceCovered;
     private float _currentSpeed;
 
     private bool _jump = false;
@@ -41,9 +46,13 @@ public class AddiController : MonoBehaviour
 
     private void Start()
     {
+        _scoreManager = GameManager.instance.Score;
+
         Physics2D.gravity = new Vector2(0.0f, GravityForce);
 
         _currentSpeed = StartingSpeed;
+
+        _previousPosition = _transform.position;
     }
 
     private void Update()
@@ -61,17 +70,17 @@ public class AddiController : MonoBehaviour
 
     private void CheckForInput()
     {
-        if(Input.GetKeyDown(KeyCode.Space) && Grounded)
+        if((Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)) && Grounded)
         {
             _jump = true;
         }
 
-        if(Input.GetKey(KeyCode.Space) && !Grounded)
+        if((Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0)) && !Grounded)
         {
             _glide = true;
         }
 
-        if(Input.GetKeyUp(KeyCode.Space))
+        if(Input.GetKeyUp(KeyCode.Space) || Input.GetMouseButtonUp(0))
         {
             _glide = false;
         }
@@ -80,6 +89,16 @@ public class AddiController : MonoBehaviour
     private void Move()
     {
         _rigidbody.velocity = new Vector2(_currentSpeed * Time.deltaTime, _rigidbody.velocity.y);
+
+        _currentDistanceCovered += _transform.position.x - _previousPosition.x;
+
+        if(_currentDistanceCovered >= 1.0f)
+        {
+            _scoreManager.AddToDistanceScore(1);
+            _currentDistanceCovered -= 1;
+        }
+
+        _previousPosition = _transform.position;
     }
 
     private void Jump()
@@ -114,6 +133,11 @@ public class AddiController : MonoBehaviour
     }
 
     public void IncreaseMovingSpeed(float amount)
+    {
+        _currentSpeed += amount;
+    }
+
+    private void SpeedUp(float amount)
     {
         _currentSpeed += amount;
     }
