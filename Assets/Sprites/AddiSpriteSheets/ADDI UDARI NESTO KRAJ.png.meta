@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: 0b7eef9ae079a814ba64aca96c31595a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ADDI UDARI NESTO KRAJ_0
+    21300002: ADDI UDARI NESTO KRAJ_1
+    21300004: ADDI UDARI NESTO KRAJ_2
+    21300006: ADDI UDARI NESTO KRAJ_3
+    21300008: ADDI UDARI NESTO KRAJ_4
+    21300010: ADDI UDARI NESTO KRAJ_5
+    21300012: ADDI UDARI NESTO KRAJ_6
+    21300014: ADDI UDARI NESTO KRAJ_7
+    21300016: ADDI UDARI NESTO KRAJ_8
+    21300018: ADDI UDARI NESTO KRAJ_9
+    21300020: ADDI UDARI NESTO KRAJ_10
+    21300022: ADDI UDARI NESTO KRAJ_11
+    21300024: ADDI UDARI NESTO KRAJ_12
+    21300026: ADDI UDARI NESTO KRAJ_13
+    21300028: ADDI UDARI NESTO KRAJ_14
+    21300030: ADDI UDARI NESTO KRAJ_15
+    21300032: ADDI UDARI NESTO KRAJ_16
+    21300034: ADDI UDARI NESTO KRAJ_17
+    21300036: ADDI UDARI NESTO KRAJ_18
+    21300038: ADDI UDARI NESTO KRAJ_19
+    21300040: ADDI UDARI NESTO KRAJ_20
+    21300042: ADDI UDARI NESTO KRAJ_21
+    21300044: ADDI UDARI NESTO KRAJ_22
+    21300046: ADDI UDARI NESTO KRAJ_23
+    21300048: ADDI UDARI NESTO KRAJ_24
+    21300050: ADDI UDARI NESTO KRAJ_25
+    21300052: ADDI UDARI NESTO KRAJ_26
+    21300054: ADDI UDARI NESTO KRAJ_27
+    21300056: ADDI UDARI NESTO KRAJ_28
+    21300058: ADDI UDARI NESTO KRAJ_29
+    21300060: ADDI UDARI NESTO KRAJ_30
+    21300062: ADDI UDARI NESTO KRAJ_31
+    21300064: ADDI UDARI NESTO KRAJ_32
+    21300066: ADDI UDARI NESTO KRAJ_33
+    21300068: ADDI UDARI NESTO KRAJ_34
+    21300070: ADDI UDARI NESTO KRAJ_35
+    21300072: ADDI UDARI NESTO KRAJ_36
+    21300074: ADDI UDARI NESTO KRAJ_37
+    21300076: ADDI UDARI NESTO KRAJ_38
+    21300078: ADDI UDARI NESTO KRAJ_39
+    21300080: ADDI UDARI NESTO KRAJ_40
+    21300082: ADDI UDARI NESTO KRAJ_41
+    21300084: ADDI UDARI NESTO KRAJ_42
+    21300086: ADDI UDARI NESTO KRAJ_43
+    21300088: ADDI UDARI NESTO KRAJ_44
+    21300090: ADDI UDARI NESTO KRAJ_45
+    21300092: ADDI UDARI NESTO KRAJ_46
+    21300094: ADDI UDARI NESTO KRAJ_47
+    21300096: ADDI UDARI NESTO KRAJ_48
+    21300098: ADDI UDARI NESTO KRAJ_49
+    21300100: ADDI UDARI NESTO KRAJ_50
+    21300102: ADDI UDARI NESTO KRAJ_51
+    21300104: ADDI UDARI NESTO KRAJ_52
+    21300106: ADDI UDARI NESTO KRAJ_53
+    21300108: ADDI UDARI NESTO KRAJ_54
+    21300110: ADDI UDARI NESTO KRAJ_55
+    21300112: ADDI UDARI NESTO KRAJ_56
+    21300114: ADDI UDARI NESTO KRAJ_57
+    21300116: ADDI UDARI NESTO KRAJ_58
+    21300118: ADDI UDARI NESTO KRAJ_59
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d8177b9dcbfc47aa4a8d99e32f817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7679d58ddd1c3748a1c616f06f520d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c1cffc3de2704fa4cf4154ace323f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eacef15be3d474d881cf044b716eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a2e2905233be4abb4be804c376c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_5
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bd3907213a00408c8fcf39755b8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_6
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f3543caed79543a07922403e8d7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61445b411e63c2641b14177a1ff55f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3836564cde2246a098b7cbc43c32d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b4420c6ff8b34f824d30171dc6130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_10
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91bd74ca32968d4aac410df3780034e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_11
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab2893f895918a46805fc6df8cfbbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_12
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d0a2e8f1173a448fdb291f40f502c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_13
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03893fc2f6cd58941b227f7602e4b068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439c9d66ca51c74d8eca2dff86d9a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5f47318e2fd44a97c8357542b63c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a542a19d30d7fa438fc495d98cf89b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_17
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22899324e1541e42b60a9968895ed5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_18
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19865bcd7f35294b9047c17380bbb64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_19
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13f866164ef894a8ff7263f2f428f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_20
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d9c230b4bd8844beebadeb58e6933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6d494a61973043b86ab3e9ce9df93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4332154526aab4ebf1042cce32f208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_23
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bcbe0cc77c7a4185f6e196a128c03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_24
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da56a76ceed85244f990bb6a580bbddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_25
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10825b658565f4ca8be6e886bb15b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_26
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07174ae218120241ad1830c9d8e78b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_27
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8a8e3a3f016445ad06ea030d79a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98612890d4bd3488134a413adf09d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc6c0977c39a544b4f8ae801d708b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_30
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a50d3eaf6d004e99e1558de005d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356f1f0fab64814face49da3bfbd00b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_32
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fbc87e130edea448df6dd752230eeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_33
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127cfd58399698498574e2fa8f87a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_34
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa24d76d9e7aec408551ae75a521fab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4cb76a522d304eb99587163033fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cca7624dbe1de4692d16306c01793d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_37
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c507b676a66c44ea27d47315cd6a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_38
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6b847fb1086a40888bc3271830b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_39
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a19dc207cd9f04a91540e00fed99eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_40
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebd8fc1f9f83f45aba27694c9c08a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_41
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd4c765e7de6e4ca995eedb74fed78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8a8f7a0002c54ab4a9cd2e637db1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_43
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec8ffba0d5ebb48875049e54fa97b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_44
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceebff1c2b3b5da40ba9bbdf1445e074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_45
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae3b910e84f074987b345528dbade7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_46
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57646fbe4a01cfa4d8fff6b1368fc5ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_47
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd40d5cf05ea1429b5429d55661664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_48
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29347aec9f87aa742952b0fd4bdc6370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831f2f767d2f1d4a8b0a8be588a5f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5db59155be7e343b74ec513b2ac897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_51
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a3169a98cbdfc4aa97481d9e9c7064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_52
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a2eacb34498e45b3b594dd92c9a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_53
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c70292c63e7e478156b54a04dac5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_54
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635635bf996cca543bd11a91bdb63738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_55
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2644a10093a2f446a6f2be89c5f238a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60898e9509143524aa7f73512180ec74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_57
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc6f93579a1d4458a9165877cccd38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_58
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcce03bfaa61b4395a94a18acd319e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UDARI NESTO KRAJ_59
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c357498d595fef44b13035fbf79458b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb43721f2c7b3f643b471c8f6599f477
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

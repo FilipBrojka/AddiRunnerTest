@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: f90f23f827a643240b0572b7f84ecea1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ADDI UVOD_0
+    21300002: ADDI UVOD_1
+    21300004: ADDI UVOD_2
+    21300006: ADDI UVOD_3
+    21300008: ADDI UVOD_4
+    21300010: ADDI UVOD_5
+    21300012: ADDI UVOD_6
+    21300014: ADDI UVOD_7
+    21300016: ADDI UVOD_8
+    21300018: ADDI UVOD_9
+    21300020: ADDI UVOD_10
+    21300022: ADDI UVOD_11
+    21300024: ADDI UVOD_12
+    21300026: ADDI UVOD_13
+    21300028: ADDI UVOD_14
+    21300030: ADDI UVOD_15
+    21300032: ADDI UVOD_16
+    21300034: ADDI UVOD_17
+    21300036: ADDI UVOD_18
+    21300038: ADDI UVOD_19
+    21300040: ADDI UVOD_20
+    21300042: ADDI UVOD_21
+    21300044: ADDI UVOD_22
+    21300046: ADDI UVOD_23
+    21300048: ADDI UVOD_24
+    21300050: ADDI UVOD_25
+    21300052: ADDI UVOD_26
+    21300054: ADDI UVOD_27
+    21300056: ADDI UVOD_28
+    21300058: ADDI UVOD_29
+    21300060: ADDI UVOD_30
+    21300062: ADDI UVOD_31
+    21300064: ADDI UVOD_32
+    21300066: ADDI UVOD_33
+    21300068: ADDI UVOD_34
+    21300070: ADDI UVOD_35
+    21300072: ADDI UVOD_36
+    21300074: ADDI UVOD_37
+    21300076: ADDI UVOD_38
+    21300078: ADDI UVOD_39
+    21300080: ADDI UVOD_40
+    21300082: ADDI UVOD_41
+    21300084: ADDI UVOD_42
+    21300086: ADDI UVOD_43
+    21300088: ADDI UVOD_44
+    21300090: ADDI UVOD_45
+    21300092: ADDI UVOD_46
+    21300094: ADDI UVOD_47
+    21300096: ADDI UVOD_48
+    21300098: ADDI UVOD_49
+    21300100: ADDI UVOD_50
+    21300102: ADDI UVOD_51
+    21300104: ADDI UVOD_52
+    21300106: ADDI UVOD_53
+    21300108: ADDI UVOD_54
+    21300110: ADDI UVOD_55
+    21300112: ADDI UVOD_56
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADDI UVOD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc3a6827b146a4b802bf7f12528951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2253100ff5e44d99d0560f43ed3a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84216f5fd77f5324a841994887e5dfe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507aa7880dccf643b5615d048fd5777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f38cac435b73c43bd05d289e1f176f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_5
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acd3bdd1f2cb74c808b42b92429ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_6
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 5424
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e3d7ba371f8342912061bceede47f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be11575cd72d664c975be47cbae9c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2b96ce713208458e6fedae1ba3e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1100a57a101fd442a358279330196a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_10
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5266f6ead5c681a41b21feedc0cb593f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_11
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b25939cb0e84445b822973f475e924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_12
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89623ac95c86346468eb09d07124b26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_13
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc90c2d467607b48b2b3b379cb762e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b40edae98fe7a48927942b6aa0f797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926baf72f9481264a81d28c761b2d043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e5e3e707ae614ea8929b81978d26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_17
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eaea013d7e667408b2cce3b00d7f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_18
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f77a28655e349b4eb69138d18957c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_19
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3a0d1bc165984cb82ad38e74dea82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_20
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0369d747a59dc94ea445ecba55b1ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9b6a588451ca458f7e557ae8e67d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0f5f3c6b6b6c408de3e398b5f9bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_23
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fbed0bb8bdbdd43b87fce7226f63ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_24
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08bc8f093a86f74296823166923b9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_25
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906c1d28495b594d9e224dc539dd582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_26
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a340f7887d27b0418209c7714031cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_27
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147c6d38c6a9a645bb7b048e96a77cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23bef6f1a21f443aa2892bbae3b23f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf15c3e4b15bd8148a6342c423c762cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_30
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3318bc199a15c2642baadc85417cc1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a462ae4d4f0944aa40bff5efb8dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_32
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3abce045a75f41ab0255dcd5b2eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_33
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b417608aa65d4b9a3b9aa01b9fa3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_34
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79246475b4bbb418a5adc514f41211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c8b1fb94252834da39908e54205984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9e0cb1e0abc14480cf946d11a7ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_37
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728fbdebd928718408fd14c85393969a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_38
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0e02bc5f2b9346b8c0768fe5d8bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_39
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e974139a21fb6478ee5a6ed2bee669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_40
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fb0b5dad487248bccc770e537f254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_41
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c745523b75e4e40953aaba80c71552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581280a07b70fd74d9ef7e238969f563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_43
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91d19de165370e45be4020f7828ae46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_44
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f566c8dde6b9e48945b15b6b747bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_45
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51102341a21fd24099d637f7b84deda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_46
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9726f31bbed9fc41b16a8ba268de27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_47
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05324c3b56ef13242bad9ae6b6285d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_48
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e24a10dbb82274696dc101737ba44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf246fb8d54f147a23c0a781f6f559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028237bd0f21a0443ba7bb1974274853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_51
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b76872cf2c2494bb204c1bd3208c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_52
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2af379ab3e61a4698360aba292fdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_53
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80626e886bfce344bde4365d694c14b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_54
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20068519fe9ec408db4458cc087763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_55
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb0b5ac5dfa7f040950f555e075bc49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI UVOD_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f412c55da5704288df2b3738260a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26a2c3561fe1b8c47b0f9f55c1d44894
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

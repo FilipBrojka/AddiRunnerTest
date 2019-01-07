@@ -156,11 +156,14 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 512
   GroundCheckTransform: {fileID: 2234918616287714752}
+  AddiAC: {fileID: 0}
   StartingSpeed: 200
-  SpeedIncrement: 0
+  SpeedIncrement: 25
   JumpForce: 750
   GravityForce: -20
   GlidingSpeed: -100
+  SpeedIncrementDistance: 6400000096000000c8000000fa0000002c010000
+  SpeedMultyplier: 0
   GroundCheckRadius: 0.1
   Grounded: 0
   IsGliding: 0
