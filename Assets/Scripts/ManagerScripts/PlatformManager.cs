@@ -35,7 +35,7 @@ public class PlatformManager : MonoBehaviour
 
         _spawnedPlatforms.Add(platform);
 
-        SpawnPoint = platform.GetComponent<Platform>().SpawnTransform;
+        SpawnPoint = platform.GetComponent<PlatformSegment>().SpawnTransform;
     }
 
     public void DestroyPreviousPlatform()

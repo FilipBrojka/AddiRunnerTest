@@ -20,6 +20,11 @@ public class AddiController : MonoBehaviour
     public float GlidingSpeed;
 
     [Space(10.0f)]
+    public float JumpThreshold = 5.0f;
+    private Vector3 _rightShoulderStartingPosition;    
+    public bool StartingPositionSet = false;
+
+    [Space(10.0f)]
     public List<int> SpeedIncrementDistance;
     public int SpeedMultyplier;
 
@@ -36,14 +41,18 @@ public class AddiController : MonoBehaviour
 
     private Transform _transform;
 
-    private Vector3 _previousPosition;    
-
+    private Vector3 _previousPosition;
+    
+    private nuitrack.Joint _leftShoulderJoint;
+    private nuitrack.Joint _rightShoulderJoint;
+    
     private float _currentDistanceCovered;
     private float _multyplierDistanceCovered;
     private float _currentSpeed;
 
     private bool _jump = false;
     private bool _glide = false;
+    private bool _userDetected = false;
 
     private void Awake()
     {
@@ -72,6 +81,7 @@ public class AddiController : MonoBehaviour
 
     private void Update()
     {
+        CheckIfUserDetected();
         CheckIfGrounded();
         CheckForInput();
     }
@@ -98,6 +108,31 @@ public class AddiController : MonoBehaviour
         if(Input.GetKeyUp(KeyCode.Space) || Input.GetMouseButtonUp(0))
         {
             _glide = false;
+        }
+
+        if(Grounded && _rightShoulderJoint.ToVector3().y > _rightShoulderStartingPosition.y + JumpThreshold)
+        {
+            _jump = true;
+        }
+
+        //if(Grounded && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360 && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 270)
+        //{
+        //    _jump = true;
+        //}
+
+        if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360))
+        {
+            _glide = true;
+        }
+
+        if (_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270)
+        {
+            _glide = false;
+        }
+
+        if(_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 330)
+        {
+            _gameManager.RestartLevel();
         }
     }
 
@@ -189,6 +224,29 @@ public class AddiController : MonoBehaviour
             {
                 AddiAC.SetBool("Falling", true);
             }
+        }
+    }
+
+    private void CheckIfUserDetected()
+    {
+        if(CurrentUserTracker.CurrentUser != 0)
+        {
+            _userDetected = true;
+
+            nuitrack.Skeleton skeleton = CurrentUserTracker.CurrentSkeleton;
+
+            _leftShoulderJoint = skeleton.GetJoint(nuitrack.JointType.LeftShoulder);
+            _rightShoulderJoint = skeleton.GetJoint(nuitrack.JointType.RightShoulder);
+            
+            if(!StartingPositionSet)
+            {
+                _rightShoulderStartingPosition = _rightShoulderJoint.ToVector3();
+                StartingPositionSet = true;
+            }
+        }
+        else
+        {
+            _userDetected = false;
         }
     }
 
