@@ -127,7 +127,7 @@ public class AddiController : MonoBehaviour
 
             if (_currentDistanceCovered >= 1.0f)
             {
-                _scoreManager.AddToDistanceScore(1);
+                _scoreManager.AddToTotalScore(1);
                 _currentDistanceCovered -= 1;
             }
 

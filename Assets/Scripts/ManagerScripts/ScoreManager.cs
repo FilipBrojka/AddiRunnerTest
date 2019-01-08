@@ -13,13 +13,10 @@ public class ScoreManager : MonoBehaviour
     public Text PlayerScoreText;    
 
     [Space(10.0f)]
-    public Text CoinScoreText;
-    public Text DistanceScoreText;
     public Text TotalScoreText;
+    public Text FinalScoreText;
 
     [Space(10.0f)]
-    public int CoinScore;
-    public int DistanceScore;
     public int TotalScore;
    
     private GameManager _gameManager;
@@ -29,23 +26,10 @@ public class ScoreManager : MonoBehaviour
         _gameManager = GameManager.instance;
     }
 
-    public void AddToCoinScore(int amount)
+    public void AddToTotalScore(int amount)
     {
-        CoinScore += amount;
-        CoinScoreText.text = CoinScore.ToString();
-    }
-
-    public void AddToDistanceScore(int amount)
-    {
-        DistanceScore += amount;
-        DistanceScoreText.text = DistanceScore.ToString();
-    }
-
-    public void CalculateTotalScore()
-    {
-        TotalScore = DistanceScore + CoinScore;
-
-        CompareNewScoreAndSaveHighScores(TotalScore);
+        TotalScore += amount;
+        TotalScoreText.text = TotalScore.ToString();
     }
 
     public void ShowEndGameCanvas()

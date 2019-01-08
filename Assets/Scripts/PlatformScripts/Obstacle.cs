@@ -21,7 +21,7 @@ public class Obstacle : MonoBehaviour
         {
             _gameManager.GameState = GameManager.GameStateType.EndGame;
 
-            _scoreManager.CalculateTotalScore();
+            _scoreManager.CompareNewScoreAndSaveHighScores(_scoreManager.TotalScore);
             _scoreManager.ShowEndGameCanvas();
 
             _addiController.AddiAC.SetTrigger("HitObstacle");
@@ -36,7 +36,7 @@ public class Obstacle : MonoBehaviour
         {
             _gameManager.GameState = GameManager.GameStateType.EndGame;
 
-            _scoreManager.CalculateTotalScore();
+            _scoreManager.CompareNewScoreAndSaveHighScores(_scoreManager.TotalScore);
             _scoreManager.ShowEndGameCanvas();
 
             _addiController.AddiAC.SetTrigger("Fall");

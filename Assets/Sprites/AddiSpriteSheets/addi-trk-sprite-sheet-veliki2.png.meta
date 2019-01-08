@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: ea4b2e85e18fb1b4b8866783547e366c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: addi-trk-sprite-sheet-veliki2_0
+    21300002: addi-trk-sprite-sheet-veliki2_1
+    21300004: addi-trk-sprite-sheet-veliki2_2
+    21300006: addi-trk-sprite-sheet-veliki2_3
+    21300008: addi-trk-sprite-sheet-veliki2_4
+    21300010: addi-trk-sprite-sheet-veliki2_5
+    21300012: addi-trk-sprite-sheet-veliki2_6
+    21300014: addi-trk-sprite-sheet-veliki2_7
+    21300016: addi-trk-sprite-sheet-veliki2_8
+    21300018: addi-trk-sprite-sheet-veliki2_9
+    21300020: addi-trk-sprite-sheet-veliki2_10
+    21300022: addi-trk-sprite-sheet-veliki2_11
+    21300024: addi-trk-sprite-sheet-veliki2_12
+    21300026: addi-trk-sprite-sheet-veliki2_13
+    21300028: addi-trk-sprite-sheet-veliki2_14
+    21300030: addi-trk-sprite-sheet-veliki2_15
+    21300032: addi-trk-sprite-sheet-veliki2_16
+    21300034: addi-trk-sprite-sheet-veliki2_17
+    21300036: addi-trk-sprite-sheet-veliki2_18
+    21300038: addi-trk-sprite-sheet-veliki2_19
+    21300040: addi-trk-sprite-sheet-veliki2_20
+    21300042: addi-trk-sprite-sheet-veliki2_21
+    21300044: addi-trk-sprite-sheet-veliki2_22
+    21300046: addi-trk-sprite-sheet-veliki2_23
+    21300048: addi-trk-sprite-sheet-veliki2_24
+    21300050: addi-trk-sprite-sheet-veliki2_25
+    21300052: addi-trk-sprite-sheet-veliki2_26
+    21300054: addi-trk-sprite-sheet-veliki2_27
+    21300056: addi-trk-sprite-sheet-veliki2_28
+    21300058: addi-trk-sprite-sheet-veliki2_29
+    21300060: addi-trk-sprite-sheet-veliki2_30
+    21300062: addi-trk-sprite-sheet-veliki2_31
+    21300064: addi-trk-sprite-sheet-veliki2_32
+    21300066: addi-trk-sprite-sheet-veliki2_33
+    21300068: addi-trk-sprite-sheet-veliki2_34
+    21300070: addi-trk-sprite-sheet-veliki2_35
+    21300072: addi-trk-sprite-sheet-veliki2_36
+    21300074: addi-trk-sprite-sheet-veliki2_37
+    21300076: addi-trk-sprite-sheet-veliki2_38
+    21300078: addi-trk-sprite-sheet-veliki2_39
+    21300080: addi-trk-sprite-sheet-veliki2_40
+    21300082: addi-trk-sprite-sheet-veliki2_41
+    21300084: addi-trk-sprite-sheet-veliki2_42
+    21300086: addi-trk-sprite-sheet-veliki2_43
+    21300088: addi-trk-sprite-sheet-veliki2_44
+    21300090: addi-trk-sprite-sheet-veliki2_45
+    21300092: addi-trk-sprite-sheet-veliki2_46
+    21300094: addi-trk-sprite-sheet-veliki2_47
+    21300096: addi-trk-sprite-sheet-veliki2_48
+    21300098: addi-trk-sprite-sheet-veliki2_49
+    21300100: addi-trk-sprite-sheet-veliki2_50
+    21300102: addi-trk-sprite-sheet-veliki2_51
+    21300104: addi-trk-sprite-sheet-veliki2_52
+    21300106: addi-trk-sprite-sheet-veliki2_53
+    21300108: addi-trk-sprite-sheet-veliki2_54
+    21300110: addi-trk-sprite-sheet-veliki2_55
+    21300112: addi-trk-sprite-sheet-veliki2_56
+    21300114: addi-trk-sprite-sheet-veliki2_57
+    21300116: addi-trk-sprite-sheet-veliki2_58
+    21300118: addi-trk-sprite-sheet-veliki2_59
+    21300120: addi-trk-sprite-sheet-veliki2_60
+    21300122: addi-trk-sprite-sheet-veliki2_61
+    21300124: addi-trk-sprite-sheet-veliki2_62
+    21300126: addi-trk-sprite-sheet-veliki2_63
+    21300128: addi-trk-sprite-sheet-veliki2_64
+    21300130: addi-trk-sprite-sheet-veliki2_65
+    21300132: addi-trk-sprite-sheet-veliki2_66
+    21300134: addi-trk-sprite-sheet-veliki2_67
+    21300136: addi-trk-sprite-sheet-veliki2_68
+    21300138: addi-trk-sprite-sheet-veliki2_69
+    21300140: addi-trk-sprite-sheet-veliki2_70
+    21300142: addi-trk-sprite-sheet-veliki2_71
+    21300144: addi-trk-sprite-sheet-veliki2_72
+    21300146: addi-trk-sprite-sheet-veliki2_73
+    21300148: addi-trk-sprite-sheet-veliki2_74
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003db082dbd65c24bba438d342ffb2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae74c7738a4a96469a4735d8dbf6ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba87756867b144b865d90096a47bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8801fceb3bbfaf43bc415fc7772b011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d7ce552801db45aa6cc6cfdcd78e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce04b6fd09b10944bd40f5446e1ab19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3388d4e4d7febcb439e817ca5a699180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f2dd87a38dd34ba41567e70df99fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1598a729f74a33428bca593c626825e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1599.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09870cfb8b48941b0d4ba3e84d3960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad209266008e948ac4de2d77fed596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43b62b447a3c3449d6476606bb7a16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e297ad8ba904d458e93ef006944377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bc4ed9af66414193ba59f46aa9b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d6417b2971854699a86c8b10645ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc59c2fe67f81148a7f49a282e4597f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680af5918dea3834694cbc5b06e776d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfba4c3f5353404c9f97e540830a54b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1e6e8fa41e2d48aa1a9a1af15af35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1371.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee66c384678f54aaa21bf12a19ca32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c828ce6acf0b6a42934c6e79d9e7075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6057896bcd9b7d4e9ea8caa6b43523e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3a767cd440f14aa61a2b2d0983dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3c2761a5cf4a498ca9f751bde76b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733b72434308f04ba7c717f276f8f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4bae34736cf024cb1b0474f0a296b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c720d02c81af6947a8446e3c9d252e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_27
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adcb19abbe5d6a418d3742696068481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e9d5ae7d99034a9f3423df29002f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1143.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f4feb2bd7ffb45bdef13a80f23f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b76c35d0216aa4fa84075b7e02db8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8314386f9f33b43825c06c4a55fd6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574e1420d7d01647a269a137b0f1e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2adb1e8cce646489710771fbef91a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3b813c8739294e8d77e08d0c4c491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d591669ec3b39694587e58a7eeee4781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab82373f46a0a64ab9024d60f1f6617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371da3e1363569949935c697cfca394f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc3175959b28144959ec4ca25ce856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 915.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930662d3e3fbcd4dba9c80b1b638559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcd0d90abaa7648a98d028d39a8135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27518b54586de88408c88e7286e502a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53964c9830f4a4046b1c079d48ff91dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64916bc7a1cf56488da133629b7d1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d477bc4c069d43b49c71e2cb8ef3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b991c7365f6245910321a24177d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc25b2d61aea384c978f103408b0b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d565ecd196b4840a4bffa332820540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_48
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc554170f937974a829ab82450aa482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 687.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd393b2812d82439e8d7259ee531d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0256884bd5e59a438434cc28d16b188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca5aa695772c34eaa478e944e3c326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95301559008a541a6d39e06bc5d8ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029754e2f7cffd499f041319bbb912e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec128f3195d5e54e8f1da1c2e517578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9ecfc4aa0e0c469e3de5d8ddae5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce54b8a7602eb4db6e63c02d88190f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec082d44a90334eb7511134830a22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7fa70927be0e47a7c4a21ebf61855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_59
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 459.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba01ca33fabc4946a5ca4a913cbbca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00177c477600843b104ec5748683fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a15da4be673d4abd54767ac43bedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477693497438f9e4f820588cf49549cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7844997d878c468747ed38a09071a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc65d5571e48a4ba94377771d69b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350459291c339b749ae7024bcd3eb76f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_66
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6800a1358185a02409992fe60f650480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_67
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b91d705b1d51248a7c7626e6014945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_68
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e6db7abfaed24aba5d73aa35b920b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_69
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 231.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab28d84e95c9374ca9021ca8d606221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b811a340cf7be45b07cc8501ef634d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b449c1bdd1b142a1a15f14f0a4024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd026ec39cab44aa77834837890070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f339bcbea6c8d47a1e61dde6c2dd32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: addi-trk-sprite-sheet-veliki2_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3.5
+        width: 200
+        height: 228.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02bcd9ecef565b46b3437b1eaeccf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d85883ce7a362743a325ca955bc0d00
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
