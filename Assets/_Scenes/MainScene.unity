@@ -610,7 +610,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 101342, guid: e999ace05c586574fa1b964016f28531, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 449316, guid: e999ace05c586574fa1b964016f28531, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1501,7 +1501,12 @@ PrefabInstance:
     - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
         type: 3}
       propertyPath: UseNuitrack
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
+        type: 3}
+      propertyPath: StartingSpeed
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}

@@ -104,7 +104,7 @@ public class AddiController : MonoBehaviour
         Jump();
         Glide();
         Crouch();
-        //Move();
+        Move();
     }
 
     private void CheckForInput()
