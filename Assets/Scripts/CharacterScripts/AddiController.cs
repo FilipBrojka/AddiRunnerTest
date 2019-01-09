@@ -6,6 +6,9 @@ public class AddiController : MonoBehaviour
 {
     public static AddiController instance;
 
+    public bool UseNuitrack = false;
+
+    [Space(10.0f)]
     public LayerMask GroundMask;
     public Transform GroundCheckTransform;
 
@@ -20,8 +23,8 @@ public class AddiController : MonoBehaviour
     public float GlidingSpeed;
 
     [Space(10.0f)]
-    public float JumpThreshold = 5.0f;
-    private Vector3 _rightShoulderStartingPosition;    
+    public float JumpThreshold = 10.0f;
+    public float CrouchThreshold = 10.0f;    
     public bool StartingPositionSet = false;
 
     [Space(10.0f)]
@@ -42,16 +45,26 @@ public class AddiController : MonoBehaviour
     private Transform _transform;
 
     private Vector3 _previousPosition;
-    
+
+    private nuitrack.Skeleton _skeleton;
+
     private nuitrack.Joint _leftShoulderJoint;
     private nuitrack.Joint _rightShoulderJoint;
-    
+    private nuitrack.Joint _leftHipJoint;
+    private nuitrack.Joint _rightHipJoint;
+
+    private Vector3 _leftShoulderStartingPosition;
+    private Vector3 _rightShoulderStartingPosition;
+    private Vector3 _leftHipStartingPosition;
+    private Vector3 _rightHipStartingPosition;
+
     private float _currentDistanceCovered;
     private float _multyplierDistanceCovered;
     private float _currentSpeed;
 
     private bool _jump = false;
     private bool _glide = false;
+    private bool _crouch = false;
     private bool _userDetected = false;
 
     private void Awake()
@@ -90,7 +103,8 @@ public class AddiController : MonoBehaviour
     {
         Jump();
         Glide();
-        Move();
+        Crouch();
+        //Move();
     }
 
     private void CheckForInput()
@@ -110,29 +124,37 @@ public class AddiController : MonoBehaviour
             _glide = false;
         }
 
-        if(Grounded && _rightShoulderJoint.ToVector3().y > _rightShoulderStartingPosition.y + JumpThreshold)
+        if (UseNuitrack)
         {
-            _jump = true;
-        }
+            if (Grounded && (_rightShoulderJoint.ToVector3().y > _rightShoulderStartingPosition.y + JumpThreshold || _leftShoulderJoint.ToVector3().y > _leftShoulderStartingPosition.y + JumpThreshold))
+            {
+                _jump = true;
+            }
 
-        //if(Grounded && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360 && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 270)
-        //{
-        //    _jump = true;
-        //}
+            if (!Grounded && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360 &&
+                _leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90)
+            {
+                _glide = true;
+            }
 
-        if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360))
-        {
-            _glide = true;
-        }
+            if (_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270)
+            {
+                _glide = false;
+            }
 
-        if (_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270)
-        {
-            _glide = false;
-        }
+            if (_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 330)
+            {
+                _gameManager.RestartLevel();
+            }
 
-        if(_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 330)
-        {
-            _gameManager.RestartLevel();
+            if(Grounded && (_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold))
+            {
+                _crouch = true;
+            }
+            else
+            {
+                _crouch = false;
+            }
         }
     }
 
@@ -227,26 +249,41 @@ public class AddiController : MonoBehaviour
         }
     }
 
+    private void Crouch()
+    {
+        if(_crouch)
+        {
+            print("CROUCHED!");
+        }
+    }
+
     private void CheckIfUserDetected()
     {
-        if(CurrentUserTracker.CurrentUser != 0)
+        if (UseNuitrack)
         {
-            _userDetected = true;
+            if (CurrentUserTracker.CurrentUser != 0)
+            {                
+                _userDetected = true;
+                _skeleton = CurrentUserTracker.CurrentSkeleton;
 
-            nuitrack.Skeleton skeleton = CurrentUserTracker.CurrentSkeleton;
+                _leftShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.LeftShoulder);
+                _rightShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.RightShoulder);
+                _leftHipJoint = _skeleton.GetJoint(nuitrack.JointType.LeftHip);
+                _rightHipJoint = _skeleton.GetJoint(nuitrack.JointType.RightHip);
 
-            _leftShoulderJoint = skeleton.GetJoint(nuitrack.JointType.LeftShoulder);
-            _rightShoulderJoint = skeleton.GetJoint(nuitrack.JointType.RightShoulder);
-            
-            if(!StartingPositionSet)
-            {
-                _rightShoulderStartingPosition = _rightShoulderJoint.ToVector3();
-                StartingPositionSet = true;
+                if (!StartingPositionSet)
+                {
+                    _leftShoulderStartingPosition = _leftShoulderJoint.ToVector3();
+                    _rightShoulderStartingPosition = _rightShoulderJoint.ToVector3();
+                    _leftHipStartingPosition = _leftHipJoint.ToVector3();
+                    _rightHipStartingPosition = _rightHipJoint.ToVector3();
+                    StartingPositionSet = true;
+                }
             }
-        }
-        else
-        {
-            _userDetected = false;
+            else
+            {
+                _userDetected = false;
+            }
         }
     }
 
