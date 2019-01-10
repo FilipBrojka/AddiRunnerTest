@@ -37,6 +37,16 @@ public class AddiController : MonoBehaviour
     [Space(10.0f)]
     public bool Grounded = false;
 
+    [Space(20.0f)]
+    public AudioSource RunAudioSource;
+    public AudioSource JumpAndGlideAudioSource;
+    public AudioSource CrouchAudioSource;
+
+    [Space(10.0f)]
+    public AudioClip JumpAudioClip;
+    public AudioClip GlideAudioClip;
+    public AudioClip CrouchAudioClip;
+
     private ScoreManager _scoreManager;
     private GameManager _gameManager;
 
@@ -124,6 +134,16 @@ public class AddiController : MonoBehaviour
             _glide = false;
         }
 
+        if(Grounded && Input.GetKey(KeyCode.LeftControl))
+        {
+            _crouch = true;
+        }
+
+        if(Input.GetKeyUp(KeyCode.LeftControl))
+        {
+            _crouch = false;
+        }
+
         if (UseNuitrack)
         {
             if (Grounded && (_rightShoulderJoint.ToVector3().y > _rightShoulderStartingPosition.y + JumpThreshold || _leftShoulderJoint.ToVector3().y > _leftShoulderStartingPosition.y + JumpThreshold))
@@ -160,19 +180,34 @@ public class AddiController : MonoBehaviour
 
     private void Move()
     {
-        if(Grounded)
+        if(_gameManager.GameState == GameManager.GameStateType.EndGame)
         {
-            AddiAC.SetBool("Falling", false);
-            AddiAC.SetBool("Run", true);
-        }
-        else
-        {
-            AddiAC.SetBool("Run", false);
-        }
+            RunAudioSource.Stop();
+        }        
 
         if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
-            if(Physics2D.gravity != new Vector2(0.0f, GravityForce))
+            if (Grounded)
+            {
+                AddiAC.SetBool("Falling", false);
+                AddiAC.SetBool("Run", true);
+
+                if (!RunAudioSource.isPlaying)
+                {
+                    RunAudioSource.Play();
+                }
+            }
+            else
+            {
+                AddiAC.SetBool("Run", false);
+
+                if (RunAudioSource.isPlaying)
+                {
+                    RunAudioSource.Stop();
+                }
+            }
+
+            if (Physics2D.gravity != new Vector2(0.0f, GravityForce))
             {
                 Physics2D.gravity = new Vector2(0.0f, GravityForce);
             }
@@ -221,6 +256,10 @@ public class AddiController : MonoBehaviour
             AddiAC.SetTrigger("Jump");
             _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
             _jump = false;
+
+            JumpAndGlideAudioSource.loop = false;
+            JumpAndGlideAudioSource.clip = JumpAudioClip;
+            JumpAndGlideAudioSource.Play();
         }
     }
 
@@ -232,10 +271,27 @@ public class AddiController : MonoBehaviour
             {
                 AddiAC.SetBool("Glide", true);
                 _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, GlidingSpeed * Time.deltaTime);
+
+                if (JumpAndGlideAudioSource.clip != GlideAudioClip)
+                {
+                    JumpAndGlideAudioSource.clip = GlideAudioClip;
+                    JumpAndGlideAudioSource.Stop();
+                }
+
+                if (!JumpAndGlideAudioSource.isPlaying)
+                {
+                    JumpAndGlideAudioSource.Play();
+                }
+
             }
             else
             {
                 AddiAC.SetBool("Glide", false);
+
+                if (JumpAndGlideAudioSource.clip == GlideAudioClip)
+                {
+                    JumpAndGlideAudioSource.Stop();
+                }
             }
         }
         else
@@ -246,6 +302,11 @@ public class AddiController : MonoBehaviour
             {
                 AddiAC.SetBool("Falling", true);
             }
+
+            if (JumpAndGlideAudioSource.clip == GlideAudioClip)
+            {
+                JumpAndGlideAudioSource.Stop();
+            }
         }
     }
 
@@ -253,7 +314,20 @@ public class AddiController : MonoBehaviour
     {
         if(_crouch)
         {
-            print("CROUCHED!");
+            if (!AddiAC.GetBool("Crouching"))
+            {
+                AddiAC.SetBool("Crouching", true);
+
+                CrouchAudioSource.Play();
+                RunAudioSource.pitch = 1.25f;
+            }
+        }
+        else
+        {
+            AddiAC.SetBool("Crouching", false);
+
+            CrouchAudioSource.Stop();
+            RunAudioSource.pitch = 1.0f;
         }
     }
 

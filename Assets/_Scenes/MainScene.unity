@@ -1473,40 +1473,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_Size.x
-      value: 2.552
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 2.7120001
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: GlidingSpeed
-      value: -50
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: JumpThreshold
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: UseNuitrack
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: StartingSpeed
-      value: 200
+    - target: {fileID: 1164082252, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}
+      propertyPath: m_Pitch
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}

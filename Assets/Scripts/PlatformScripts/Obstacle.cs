@@ -3,7 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Obstacle : MonoBehaviour
-{    
+{
+    public AudioSource ObstacleHitAudioSource;
+
+    [Space(10.0f)]
+    public AudioClip ObstacleHitClip;
+    public AudioClip ObstacleJumpedOnClip;
+    public AudioClip FallThroughHoleClip;
+
     private GameManager _gameManager;
     private ScoreManager _scoreManager;
     private AddiController _addiController;
@@ -26,13 +33,23 @@ public class Obstacle : MonoBehaviour
 
             _addiController.AddiAC.SetTrigger("HitObstacle");
 
-            print("Player Died!");
+            if(_addiController.AddiAC.GetBool("Glide") || _addiController.AddiAC.GetBool("Falling"))
+            {
+                ObstacleHitAudioSource.clip = ObstacleJumpedOnClip;
+                ObstacleHitAudioSource.Play();
+            }
+
+            if(_addiController.AddiAC.GetBool("Run"))
+            {
+                ObstacleHitAudioSource.clip = ObstacleHitClip;
+                ObstacleHitAudioSource.Play();
+            }
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Player"))
+        if(CompareTag("Hole") && collision.CompareTag("Player"))
         {
             _gameManager.GameState = GameManager.GameStateType.EndGame;
 
@@ -41,7 +58,8 @@ public class Obstacle : MonoBehaviour
 
             _addiController.AddiAC.SetTrigger("Fall");
 
-            print("Player Died!");
+            ObstacleHitAudioSource.clip = FallThroughHoleClip;
+            ObstacleHitAudioSource.Play();
         }
     }
 }
