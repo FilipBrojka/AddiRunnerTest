@@ -259,15 +259,18 @@ public class AddiController : MonoBehaviour
 
     private void Jump()
     {
-        if (_jump)
+        if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
-            AddiAC.SetTrigger("Jump");
-            _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
-            _jump = false;
+            if (_jump)
+            {
+                AddiAC.SetTrigger("Jump");
+                _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
+                _jump = false;
 
-            JumpAndGlideAudioSource.loop = false;
-            JumpAndGlideAudioSource.clip = JumpAudioClip;
-            JumpAndGlideAudioSource.Play();
+                JumpAndGlideAudioSource.loop = false;
+                JumpAndGlideAudioSource.clip = JumpAudioClip;
+                JumpAndGlideAudioSource.Play();
+            }
         }
     }
 
@@ -286,7 +289,7 @@ public class AddiController : MonoBehaviour
                     JumpAndGlideAudioSource.Stop();
                 }
 
-                if (!JumpAndGlideAudioSource.isPlaying)
+                if (!JumpAndGlideAudioSource.isPlaying && _gameManager.GameState == GameManager.GameStateType.Playing)
                 {
                     JumpAndGlideAudioSource.Play();
                 }
@@ -327,33 +330,36 @@ public class AddiController : MonoBehaviour
 
     private void Crouch()
     {
-        if(_crouch && !_glide && !AddiAC.GetBool("Falling"))
+        if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
-            if (!AddiAC.GetBool("Crouching"))
+            if (_crouch && !_glide && !AddiAC.GetBool("Falling"))
             {
-                AddiAC.SetBool("Crouching", true);
+                if (!AddiAC.GetBool("Crouching"))
+                {
+                    AddiAC.SetBool("Crouching", true);
 
-                CrouchAudioSource.Play();
-                RunAudioSource.pitch = 1.25f;
+                    CrouchAudioSource.Play();
+                    RunAudioSource.pitch = 1.25f;
+                }
+
+                if (AddiCollider.size == RunColliderSize)
+                {
+                    AddiCollider.offset = CrouchColliderOffset;
+                    AddiCollider.size = CrouchColliderSize;
+                }
             }
-
-            if(AddiCollider.size == RunColliderSize)
+            else
             {
-                AddiCollider.offset = CrouchColliderOffset;
-                AddiCollider.size = CrouchColliderSize;
-            }
-        }
-        else
-        {
-            AddiAC.SetBool("Crouching", false);
+                AddiAC.SetBool("Crouching", false);
 
-            CrouchAudioSource.Stop();
-            RunAudioSource.pitch = 1.0f;
+                CrouchAudioSource.Stop();
+                RunAudioSource.pitch = 1.0f;
 
-            if(AddiCollider.size == CrouchColliderSize)
-            {
-                AddiCollider.offset = RunColliderOffset;
-                AddiCollider.size = RunColliderSize;
+                if (AddiCollider.size == CrouchColliderSize)
+                {
+                    AddiCollider.offset = RunColliderOffset;
+                    AddiCollider.size = RunColliderSize;
+                }
             }
         }
     }

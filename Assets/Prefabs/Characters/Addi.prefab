@@ -44,7 +44,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: d9b674321de1cf043af86d51f73851ff, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -334,7 +334,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 7d6b4460f505335499f7a4065b5f7c65, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.75
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -735,7 +735,7 @@ MonoBehaviour:
   JumpThreshold: 50
   CrouchThreshold: 50
   StartingPositionSet: 0
-  SpeedIncrementDistance: 6400000096000000c8000000fa0000002c010000
+  SpeedIncrementDistance: fa0000002c0100005e01000090010000f4010000
   SpeedMultyplier: 0
   GroundCheckRadius: 0.1
   Grounded: 0

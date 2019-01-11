@@ -7,6 +7,8 @@ using SaveLoadNamespace;
 public class ScoreManager : MonoBehaviour
 {
     public Canvas EndGameCanvas;
+    public Canvas SettingsCanvas;
+    public Canvas AreYouSureCanvas;
 
     [Space(10.0f)]
     public Text HighScoreText;
@@ -34,12 +36,35 @@ public class ScoreManager : MonoBehaviour
 
     public void ShowEndGameCanvas()
     {
-        EndGameCanvas.enabled = true;
+        if (!SettingsCanvas.enabled)
+        {
+            EndGameCanvas.enabled = true;
+        }
     }
 
     public void HideEndGameCanvas()
     {
         EndGameCanvas.enabled = false;
+    }
+
+    public void ShowSettingsCanvas()
+    {
+        SettingsCanvas.enabled = true;
+    }
+
+    public void DisableSettingsCanvas()
+    {
+        SettingsCanvas.enabled = false;
+    }
+
+    public void EnableAreYouSureCanvas()
+    {
+        AreYouSureCanvas.enabled = true;
+    }
+
+    public void DisableAreYouSureCanvas()
+    {
+        AreYouSureCanvas.enabled = false;
     }
 
     public void CompareNewScoreAndSaveHighScores(int score)
