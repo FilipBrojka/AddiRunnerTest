@@ -159,18 +159,23 @@ public class AddiController : MonoBehaviour
                 _jump = true;
             }
 
-            if (!Grounded && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360 &&
-                _leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90)
+            if(!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
+                (_rightShoulderJoint.ToQuaternion().eulerAngles.z >= 0 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 60))
             {
-                _glide = true;
+                if((_leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90) ||
+                    (_leftShoulderJoint.ToQuaternion().eulerAngles.z <= 360 && _leftShoulderJoint.ToQuaternion().eulerAngles.z > 300))
+                {
+                    _glide = true;
+                }
             }
 
-            if (_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270)
+            if ((_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 60)
+                || (_leftShoulderJoint.ToQuaternion().eulerAngles.z >= 90 && _leftShoulderJoint.ToQuaternion().eulerAngles.z <= 300))
             {
                 _glide = false;
             }
 
-            if (_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 330)
+            if (_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 300)
             {
                 _gameManager.RestartLevel();
             }
@@ -183,6 +188,8 @@ public class AddiController : MonoBehaviour
             {
                 _crouch = false;
             }
+
+            //print("LEFT: " + _leftShoulderJoint.ToQuaternion().eulerAngles.z + " , RIGHT: " + _rightShoulderJoint.ToQuaternion().eulerAngles.z);
         }
     }
 
