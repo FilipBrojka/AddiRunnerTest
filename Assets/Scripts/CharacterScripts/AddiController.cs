@@ -16,6 +16,13 @@ public class AddiController : MonoBehaviour
     public Animator AddiAC;
 
     [Space(10.0f)]
+    public CapsuleCollider2D AddiCollider;
+    public Vector2 RunColliderOffset;
+    public Vector2 RunColliderSize;
+    public Vector2 CrouchColliderOffset;
+    public Vector2 CrouchColliderSize;
+
+    [Space(10.0f)]
     public float StartingSpeed;
     public float SpeedIncrement;
     public float JumpForce;
@@ -45,6 +52,7 @@ public class AddiController : MonoBehaviour
     [Space(10.0f)]
     public AudioClip JumpAudioClip;
     public AudioClip GlideAudioClip;
+    public AudioClip FallingAudioClip;
     public AudioClip CrouchAudioClip;
 
     private ScoreManager _scoreManager;
@@ -301,6 +309,13 @@ public class AddiController : MonoBehaviour
             if(!Grounded)
             {
                 AddiAC.SetBool("Falling", true);
+
+                if(JumpAndGlideAudioSource.clip != FallingAudioClip && _rigidbody.velocity.y < 0.0f)
+                {
+                    JumpAndGlideAudioSource.Stop();
+                    JumpAndGlideAudioSource.clip = FallingAudioClip;
+                    JumpAndGlideAudioSource.Play();
+                }
             }
 
             if (JumpAndGlideAudioSource.clip == GlideAudioClip)
@@ -312,7 +327,7 @@ public class AddiController : MonoBehaviour
 
     private void Crouch()
     {
-        if(_crouch)
+        if(_crouch && !_glide && !AddiAC.GetBool("Falling"))
         {
             if (!AddiAC.GetBool("Crouching"))
             {
@@ -321,6 +336,12 @@ public class AddiController : MonoBehaviour
                 CrouchAudioSource.Play();
                 RunAudioSource.pitch = 1.25f;
             }
+
+            if(AddiCollider.size == RunColliderSize)
+            {
+                AddiCollider.offset = CrouchColliderOffset;
+                AddiCollider.size = CrouchColliderSize;
+            }
         }
         else
         {
@@ -328,6 +349,12 @@ public class AddiController : MonoBehaviour
 
             CrouchAudioSource.Stop();
             RunAudioSource.pitch = 1.0f;
+
+            if(AddiCollider.size == CrouchColliderSize)
+            {
+                AddiCollider.offset = RunColliderOffset;
+                AddiCollider.size = RunColliderSize;
+            }
         }
     }
 

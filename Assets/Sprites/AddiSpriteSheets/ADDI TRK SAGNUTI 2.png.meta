@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 12002d7339f704a449a8c6ca234bcabe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ADDI TRK SAGNUTI 2_0
+    21300002: ADDI TRK SAGNUTI 2_1
+    21300004: ADDI TRK SAGNUTI 2_2
+    21300006: ADDI TRK SAGNUTI 2_3
+    21300008: ADDI TRK SAGNUTI 2_4
+    21300010: ADDI TRK SAGNUTI 2_5
+    21300012: ADDI TRK SAGNUTI 2_6
+    21300014: ADDI TRK SAGNUTI 2_7
+    21300016: ADDI TRK SAGNUTI 2_8
+    21300018: ADDI TRK SAGNUTI 2_9
+    21300020: ADDI TRK SAGNUTI 2_10
+    21300022: ADDI TRK SAGNUTI 2_11
+    21300024: ADDI TRK SAGNUTI 2_12
+    21300026: ADDI TRK SAGNUTI 2_13
+    21300028: ADDI TRK SAGNUTI 2_14
+    21300030: ADDI TRK SAGNUTI 2_15
+    21300032: ADDI TRK SAGNUTI 2_16
+    21300034: ADDI TRK SAGNUTI 2_17
+    21300036: ADDI TRK SAGNUTI 2_18
+    21300038: ADDI TRK SAGNUTI 2_19
+    21300040: ADDI TRK SAGNUTI 2_20
+    21300042: ADDI TRK SAGNUTI 2_21
+    21300044: ADDI TRK SAGNUTI 2_22
+    21300046: ADDI TRK SAGNUTI 2_23
+    21300048: ADDI TRK SAGNUTI 2_24
+    21300050: ADDI TRK SAGNUTI 2_25
+    21300052: ADDI TRK SAGNUTI 2_26
+    21300054: ADDI TRK SAGNUTI 2_27
+    21300056: ADDI TRK SAGNUTI 2_28
+    21300058: ADDI TRK SAGNUTI 2_29
+    21300060: ADDI TRK SAGNUTI 2_30
+    21300062: ADDI TRK SAGNUTI 2_31
+    21300064: ADDI TRK SAGNUTI 2_32
+    21300066: ADDI TRK SAGNUTI 2_33
+    21300068: ADDI TRK SAGNUTI 2_34
+    21300070: ADDI TRK SAGNUTI 2_35
+    21300072: ADDI TRK SAGNUTI 2_36
+    21300074: ADDI TRK SAGNUTI 2_37
+    21300076: ADDI TRK SAGNUTI 2_38
+    21300078: ADDI TRK SAGNUTI 2_39
+    21300080: ADDI TRK SAGNUTI 2_40
+    21300082: ADDI TRK SAGNUTI 2_41
+    21300084: ADDI TRK SAGNUTI 2_42
+    21300086: ADDI TRK SAGNUTI 2_43
+    21300088: ADDI TRK SAGNUTI 2_44
+    21300090: ADDI TRK SAGNUTI 2_45
+    21300092: ADDI TRK SAGNUTI 2_46
+    21300094: ADDI TRK SAGNUTI 2_47
+    21300096: ADDI TRK SAGNUTI 2_48
+    21300098: ADDI TRK SAGNUTI 2_49
+    21300100: ADDI TRK SAGNUTI 2_50
+    21300102: ADDI TRK SAGNUTI 2_51
+    21300104: ADDI TRK SAGNUTI 2_52
+    21300106: ADDI TRK SAGNUTI 2_53
+    21300108: ADDI TRK SAGNUTI 2_54
+    21300110: ADDI TRK SAGNUTI 2_55
+    21300112: ADDI TRK SAGNUTI 2_56
+    21300114: ADDI TRK SAGNUTI 2_57
+    21300116: ADDI TRK SAGNUTI 2_58
+    21300118: ADDI TRK SAGNUTI 2_59
+    21300120: ADDI TRK SAGNUTI 2_60
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d70f5a233055e408674cb354bac592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8adaf88c5f7e41909e9bd2c0242cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5baf001c4a64f46b550a0a5e668cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ad34a118422db45a666b3c745c9117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1405177b90f2d52428994778e1a69014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_5
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad823242a4ce14190d306ca8dbbb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_6
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75127fd9c44c4944284549a35238de90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_7
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 4746
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d39d52e5cdd3488cb76a21cb3826d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60acb08c66be4429b07c7e9bcf5436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef83a597864cb4dab3afce6a1b83de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0ef5ad70b7e04485a555428d73699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_11
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d30146cbdc6624599d0c7407a443bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_12
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e6050108f946b4e914cea5e1dd21ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_13
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bfc2183a562fa4097495d20c296224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_14
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a667dfe92f6e12489eb405c8cd60aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_15
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 4068
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887714500b168b4b8d234f29d35d06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8b21d99e29484cb6aa3332a3c37d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091272ec4bb49a4bb4db81d14b9c3a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_18
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f76a4bff88cb45a331573ab707ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_19
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a52e96b84a8b44f822f8d076207f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_20
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692fe75921fee84baf2640771ba452a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_21
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16eddc4f03a77f49a34ddd882cb2e0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_22
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5faf65780ab5484d8c23492b801c0d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_23
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 3390
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe187830cc9d2f419f2fb75b4ffd7f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750f59bcbdab4649a67baab7662ed37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e3dce0fc211f448bef1d19b34f814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_26
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80651330f55fd964c8cf7dff7b52b13c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_27
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e04f9d05ecfef44a1b3c9b794ddddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_28
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73520adb55d6de943b434af527e1c707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_29
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbddd5765914f4b849e5f02315b301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_30
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358d74161c074749b483a2145956c09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_31
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 2712
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd9acb0208a9a4380604a21b9864bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f1d61f1398e664e84f99513a067c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_33
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a2b54ce2d1df4aa9621ae2f88c990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_34
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc140d3ec45fe47a94a5df3238c957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_35
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a09737e5d4e2f4eb3b25fe688b018e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_36
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed32a64aaeb844da45bb0ee4bd47b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_37
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59731914c1e37444bec5a5383896d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_38
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64419954e3eb2418477d2c35dce059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_39
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c465125360d55e4c9ba35982d5b94a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a16aea348fd5bf4a9bfa0cb975fa4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_41
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180e906a764eab44afd4a5c1a7c0abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_42
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e2c7aca8e3a574697b14f642dde337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_43
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0670400f81b68b47b0985c2e505d018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_44
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5019e964496e51439102d367a4d7091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_45
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90ec18031cf54478494dd13b351f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_46
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e93e9c4826bd478ab603bd93bcd81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_47
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08438d2512c654409ff2178daecf358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5040032325be1469fc1fb483995d66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_49
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412e6c29c80c0644943d9b2fb15bf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_50
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08608497dab1b914787b1e8ad49f0fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_51
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be157a0939168e4c9c39056ce68d9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_52
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbef7f4fd439974c8c7e1bece396e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_53
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ee7f151b821741bc7d26c3755f1e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_54
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f668115830b3244bc3ca04eb09b855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_55
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9d4c1fa6af6849b33c528c750142b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7e11679b59e640b639a64a11d7ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_57
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4c05671cf8bf449468a4715bbccb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_58
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d3eefda2a53149a5c96c6ad4af5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_59
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87b49e16cc56c47a19c2a622b697a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADDI TRK SAGNUTI 2_60
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce21277b47d9304eabeb599e9e0050b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5944c88f0686c9e4396228ecb530d8e2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
