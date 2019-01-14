@@ -3085,8 +3085,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
         type: 3}
-      propertyPath: UseNuitrack
-      value: 1
+      propertyPath: FastFallGravityForce
+      value: -50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}

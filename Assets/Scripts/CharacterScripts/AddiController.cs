@@ -24,10 +24,11 @@ public class AddiController : MonoBehaviour
 
     [Space(10.0f)]
     public float StartingSpeed;
-    public float SpeedIncrement;
-    public float JumpForce;
+    public float SpeedIncrement;    
     public float GravityForce;
-    public float GlidingSpeed;
+    public float FastFallGravityForce;
+    public float GlidingSpeed;    
+    public float JumpForce = 750;
 
     [Space(10.0f)]
     public float JumpThreshold = 10.0f;
@@ -66,21 +67,26 @@ public class AddiController : MonoBehaviour
 
     private nuitrack.Skeleton _skeleton;
 
-    private nuitrack.Joint _leftShoulderJoint;
-    private nuitrack.Joint _rightShoulderJoint;
+    private nuitrack.Joint _leftAnkleJoint;
+    private nuitrack.Joint _rightAnkleJoint;
+
     private nuitrack.Joint _leftHipJoint;
     private nuitrack.Joint _rightHipJoint;
 
-    private Vector3 _leftShoulderStartingPosition;
-    private Vector3 _rightShoulderStartingPosition;
+    private nuitrack.Joint _leftShoulderJoint;
+    private nuitrack.Joint _rightShoulderJoint;
+
+    private nuitrack.Joint _headJoint;
+
     private Vector3 _leftHipStartingPosition;
     private Vector3 _rightHipStartingPosition;
 
     private float _currentDistanceCovered;
     private float _multyplierDistanceCovered;
     private float _currentSpeed;
+    private float _playerHeight;
 
-    private bool _jump = false;
+    private bool _Jump = false;    
     private bool _glide = false;
     private bool _crouch = false;
     private bool _userDetected = false;
@@ -122,14 +128,23 @@ public class AddiController : MonoBehaviour
         Jump();
         Glide();
         Crouch();
+        FallFast();
         Move();
+    }
+
+    private void MessureHeight()
+    {
+        float leftHeight = Vector3.Distance(_leftAnkleJoint.ToVector3(), _headJoint.ToVector3());
+        float rightHeight = Vector3.Distance(_rightAnkleJoint.ToVector3(), _headJoint.ToVector3());
+
+        _playerHeight = (leftHeight + rightHeight) / 2000f;
     }
 
     private void CheckForInput()
     {
         if((Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)) && Grounded)
         {
-            _jump = true;
+            _Jump = true;
         }
 
         if((Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0)) && !Grounded)
@@ -154,12 +169,12 @@ public class AddiController : MonoBehaviour
 
         if (UseNuitrack)
         {
-            if (Grounded && (_rightShoulderJoint.ToVector3().y > _rightShoulderStartingPosition.y + JumpThreshold || _leftShoulderJoint.ToVector3().y > _leftShoulderStartingPosition.y + JumpThreshold))
+            if (Grounded && (_rightHipJoint.ToVector3().y > _rightHipStartingPosition.y + JumpThreshold * _playerHeight || _leftHipJoint.ToVector3().y > _leftHipStartingPosition.y + JumpThreshold * _playerHeight))
             {
-                _jump = true;
+                _Jump = true;
             }
 
-            if(!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
+            if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
                 (_rightShoulderJoint.ToQuaternion().eulerAngles.z >= 0 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 60))
             {
                 if((_leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90) ||
@@ -180,7 +195,7 @@ public class AddiController : MonoBehaviour
                 _gameManager.RestartLevel();
             }
 
-            if(Grounded && (_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold))
+            if(_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold * _playerHeight || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold * _playerHeight)
             {
                 _crouch = true;
             }
@@ -222,7 +237,7 @@ public class AddiController : MonoBehaviour
                 }
             }
 
-            if (Physics2D.gravity != new Vector2(0.0f, GravityForce))
+            if (!_crouch && _rigidbody.velocity.y >= 0.0f && Physics2D.gravity != new Vector2(0.0f, GravityForce))
             {
                 Physics2D.gravity = new Vector2(0.0f, GravityForce);
             }
@@ -268,11 +283,11 @@ public class AddiController : MonoBehaviour
     {
         if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
-            if (_jump)
+            if (_Jump)
             {
                 AddiAC.SetTrigger("Jump");
                 _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
-                _jump = false;
+                _Jump = false;
 
                 JumpAndGlideAudioSource.loop = false;
                 JumpAndGlideAudioSource.clip = JumpAudioClip;
@@ -283,7 +298,7 @@ public class AddiController : MonoBehaviour
 
     private void Glide()
     {
-        if(_glide)
+        if(_glide && !_crouch)
         {
             if (_rigidbody.velocity.y < 0.0f && !Grounded)
             {
@@ -335,24 +350,41 @@ public class AddiController : MonoBehaviour
         }
     }
 
+    private void FallFast()
+    {
+        if (_crouch)
+        {
+            if (_rigidbody.velocity.y < 0.0f && !Grounded)
+            {
+                if(Physics2D.gravity.y != FastFallGravityForce)
+                {
+                    Physics2D.gravity = new Vector2(0.0f, FastFallGravityForce);
+                }
+            }
+        }
+    }
+
     private void Crouch()
     {
         if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
             if (_crouch && !_glide && !AddiAC.GetBool("Falling"))
             {
-                if (!AddiAC.GetBool("Crouching"))
+                if (Grounded)
                 {
-                    AddiAC.SetBool("Crouching", true);
+                    if (!AddiAC.GetBool("Crouching"))
+                    {
+                        AddiAC.SetBool("Crouching", true);
 
-                    CrouchAudioSource.Play();
-                    RunAudioSource.pitch = 1.25f;
-                }
+                        CrouchAudioSource.Play();
+                        RunAudioSource.pitch = 1.25f;
+                    }
 
-                if (AddiCollider.size == RunColliderSize)
-                {
-                    AddiCollider.offset = CrouchColliderOffset;
-                    AddiCollider.size = CrouchColliderSize;
+                    if (AddiCollider.size == RunColliderSize)
+                    {
+                        AddiCollider.offset = CrouchColliderOffset;
+                        AddiCollider.size = CrouchColliderSize;
+                    }
                 }
             }
             else
@@ -380,17 +412,24 @@ public class AddiController : MonoBehaviour
                 _userDetected = true;
                 _skeleton = CurrentUserTracker.CurrentSkeleton;
 
-                _leftShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.LeftShoulder);
-                _rightShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.RightShoulder);
+                _leftAnkleJoint = _skeleton.GetJoint(nuitrack.JointType.LeftAnkle);
+                _rightAnkleJoint = _skeleton.GetJoint(nuitrack.JointType.RightAnkle);
+
                 _leftHipJoint = _skeleton.GetJoint(nuitrack.JointType.LeftHip);
                 _rightHipJoint = _skeleton.GetJoint(nuitrack.JointType.RightHip);
 
+                _leftShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.LeftShoulder);
+                _rightShoulderJoint = _skeleton.GetJoint(nuitrack.JointType.RightShoulder);
+                
+                _headJoint = _skeleton.GetJoint(nuitrack.JointType.Head);
+
                 if (!StartingPositionSet)
                 {
-                    _leftShoulderStartingPosition = _leftShoulderJoint.ToVector3();
-                    _rightShoulderStartingPosition = _rightShoulderJoint.ToVector3();
                     _leftHipStartingPosition = _leftHipJoint.ToVector3();
                     _rightHipStartingPosition = _rightHipJoint.ToVector3();
+
+                    MessureHeight();
+
                     StartingPositionSet = true;
                 }
             }
@@ -404,11 +443,6 @@ public class AddiController : MonoBehaviour
     private void CheckIfGrounded()
     {
         Grounded = Physics2D.OverlapCircle(GroundCheckTransform.position, GroundCheckRadius, GroundMask);
-    }
-
-    private void SpeedUp(float amount)
-    {
-        _currentSpeed += amount;
     }
 
     public void IncreaseMovingSpeed(float amount)

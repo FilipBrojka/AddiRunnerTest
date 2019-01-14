@@ -716,7 +716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b67cf748a278654eb10e655a2bf00c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UseNuitrack: 0
+  UseNuitrack: 1
   GroundMask:
     serializedVersion: 2
     m_Bits: 512
@@ -729,11 +729,12 @@ MonoBehaviour:
   CrouchColliderSize: {x: 0.8580427, y: 0.9180405}
   StartingSpeed: 200
   SpeedIncrement: 25
-  JumpForce: 750
   GravityForce: -20
+  FastFallGravityForce: -40
   GlidingSpeed: -50
-  JumpThreshold: 50
-  CrouchThreshold: 50
+  JumpForce: 750
+  JumpThreshold: 10
+  CrouchThreshold: 30
   StartingPositionSet: 0
   SpeedIncrementDistance: fa0000002c0100005e01000090010000f4010000
   SpeedMultyplier: 0
