@@ -125,11 +125,14 @@ public class AddiController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Jump();
-        Glide();
-        Crouch();
-        FallFast();
-        Move();
+        if (_userDetected)
+        {
+            Jump();
+            Glide();
+            Crouch();
+            FallFast();
+            Move();
+        }
     }
 
     private void MessureHeight()
@@ -407,7 +410,7 @@ public class AddiController : MonoBehaviour
     {
         if (UseNuitrack)
         {
-            if (CurrentUserTracker.CurrentUser != 0)
+            if (CurrentUserTracker.CurrentUser == 1)
             {                
                 _userDetected = true;
                 _skeleton = CurrentUserTracker.CurrentSkeleton;
