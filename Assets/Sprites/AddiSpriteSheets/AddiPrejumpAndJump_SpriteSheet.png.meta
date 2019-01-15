@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: f6e0acfd479ee654a983ce19b8fa7f4b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AddiPrejumpAndJump_SpriteSheet_0
+    21300002: AddiPrejumpAndJump_SpriteSheet_1
+    21300004: AddiPrejumpAndJump_SpriteSheet_2
+    21300006: AddiPrejumpAndJump_SpriteSheet_3
+    21300008: AddiPrejumpAndJump_SpriteSheet_4
+    21300010: AddiPrejumpAndJump_SpriteSheet_5
+    21300012: AddiPrejumpAndJump_SpriteSheet_6
+    21300014: AddiPrejumpAndJump_SpriteSheet_7
+    21300016: AddiPrejumpAndJump_SpriteSheet_8
+    21300018: AddiPrejumpAndJump_SpriteSheet_9
+    21300020: AddiPrejumpAndJump_SpriteSheet_10
+    21300022: AddiPrejumpAndJump_SpriteSheet_11
+    21300024: AddiPrejumpAndJump_SpriteSheet_12
+    21300026: AddiPrejumpAndJump_SpriteSheet_13
+    21300028: AddiPrejumpAndJump_SpriteSheet_14
+    21300030: AddiPrejumpAndJump_SpriteSheet_15
+    21300032: AddiPrejumpAndJump_SpriteSheet_16
+    21300034: AddiPrejumpAndJump_SpriteSheet_17
+    21300036: AddiPrejumpAndJump_SpriteSheet_18
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd818288137ca48ac638c4510cad8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88dbfe7213b87342a5780111a09a64d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f9f14e24c7094c8d6fe561836c5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65bb1cbafd2de408b588781e83c165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34f82c4f172324fb90ed80f17a95e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2034
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368374e2841f0fb4782838f7796f28f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba82507ff47f9840997dc0a521856b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af880704ea5bd49ae20005aa002d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371e2b057a886f459a08fb500be5cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a7b6f1a5adc54bb172bf1124e1227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec71cd957f46d4c8e72c29219e4eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1356
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d068bc6d307c57409dfe48724adbeef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bac8464123b5742bfadb6a835721cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88d6a40477f4094fbb7f760e30a0049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff5a595dbebfe4b93053d8859e08e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d930a1644490724d87e863bb4b4db38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6302654576a9242996e5de05ddcb12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 678
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc45531575fd640b8bcaaa3d6b0c7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddiPrejumpAndJump_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e4d4e40ad8844d840465db0a292ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b797725c78c658e4387c6fc9770890f6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -86,7 +86,10 @@ public class AddiController : MonoBehaviour
     private float _currentSpeed;
     private float _playerHeight;
 
-    private bool _Jump = false;    
+    private float _startTimer = 3.0f;
+    private float _currentTimer;
+
+    private bool _jump = false;    
     private bool _glide = false;
     private bool _crouch = false;
     private bool _userDetected = false;
@@ -114,11 +117,19 @@ public class AddiController : MonoBehaviour
         _currentSpeed = StartingSpeed;
 
         _previousPosition = _transform.position;
+
+        _currentTimer = _startTimer;
+
+        if(!UseNuitrack)
+        {
+            _userDetected = true;
+        }
     }
 
     private void Update()
     {
         CheckIfUserDetected();
+        CheckDistanceFromCamera();
         CheckIfGrounded();
         CheckForInput();
     }
@@ -135,6 +146,29 @@ public class AddiController : MonoBehaviour
         }
     }
 
+    private void CheckDistanceFromCamera()
+    {
+        if (UseNuitrack && _userDetected)
+        {
+            if(_leftHipJoint.ToVector3().z / 1000f < 1.5f || _leftHipJoint.ToVector3().z / 1000f > 2.5f)
+            {
+                _userDetected = false;
+                _currentTimer = _startTimer;
+                StartingPositionSet = false;
+
+                _crouch = false;
+                _jump = false;
+                _glide = false;
+
+                AddiAC.SetBool("Crouching", false);
+                AddiAC.SetBool("Falling", false);
+                AddiAC.SetBool("Glide", false);
+
+                AddiAC.ResetTrigger("Jump");
+            }
+        }        
+    }
+
     private void MessureHeight()
     {
         float leftHeight = Vector3.Distance(_leftAnkleJoint.ToVector3(), _headJoint.ToVector3());
@@ -147,7 +181,7 @@ public class AddiController : MonoBehaviour
     {
         if((Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)) && Grounded)
         {
-            _Jump = true;
+            _jump = true;
         }
 
         if((Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0)) && !Grounded)
@@ -172,39 +206,53 @@ public class AddiController : MonoBehaviour
 
         if (UseNuitrack)
         {
-            if (Grounded && (_rightHipJoint.ToVector3().y > _rightHipStartingPosition.y + JumpThreshold * _playerHeight || _leftHipJoint.ToVector3().y > _leftHipStartingPosition.y + JumpThreshold * _playerHeight))
+            if (_gameManager.GameState == GameManager.GameStateType.EndGame)
             {
-                _Jump = true;
-            }
-
-            if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
-                (_rightShoulderJoint.ToQuaternion().eulerAngles.z >= 0 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 60))
-            {
-                if((_leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90) ||
-                    (_leftShoulderJoint.ToQuaternion().eulerAngles.z <= 360 && _leftShoulderJoint.ToQuaternion().eulerAngles.z > 300))
+                if (CheckForTPose())
                 {
-                    _glide = true;
+                    if (_currentTimer > 0.0f)
+                    {
+                        _currentTimer -= Time.deltaTime;
+                    }
+                    else
+                    {
+                        _currentTimer = _startTimer;
+                        _gameManager.RestartLevel();
+                    }
                 }
             }
 
-            if ((_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 60)
-                || (_leftShoulderJoint.ToQuaternion().eulerAngles.z >= 90 && _leftShoulderJoint.ToQuaternion().eulerAngles.z <= 300))
+            if (_gameManager.GameState == GameManager.GameStateType.Playing && _userDetected)
             {
-                _glide = false;
-            }
+                if (Grounded && (_rightHipJoint.ToVector3().y > _rightHipStartingPosition.y + JumpThreshold * _playerHeight || _leftHipJoint.ToVector3().y > _leftHipStartingPosition.y + JumpThreshold * _playerHeight))
+                {
+                    _jump = true;
+                }
 
-            if (_gameManager.GameState == GameManager.GameStateType.EndGame && _rightShoulderJoint.ToQuaternion().eulerAngles.z >= 300)
-            {
-                _gameManager.RestartLevel();
-            }
+                if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
+                    (_rightShoulderJoint.ToQuaternion().eulerAngles.z >= 0 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 60))
+                {
+                    if ((_leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90) ||
+                        (_leftShoulderJoint.ToQuaternion().eulerAngles.z <= 360 && _leftShoulderJoint.ToQuaternion().eulerAngles.z > 300))
+                    {
+                        _glide = true;
+                    }
+                }
 
-            if(_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold * _playerHeight || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold * _playerHeight)
-            {
-                _crouch = true;
-            }
-            else
-            {
-                _crouch = false;
+                if ((_rightShoulderJoint.ToQuaternion().eulerAngles.z <= 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z > 60)
+                    || (_leftShoulderJoint.ToQuaternion().eulerAngles.z >= 90 && _leftShoulderJoint.ToQuaternion().eulerAngles.z <= 300))
+                {
+                    _glide = false;
+                }
+
+                if (_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold * _playerHeight || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold * _playerHeight)
+                {
+                    _crouch = true;
+                }
+                else
+                {
+                    _crouch = false;
+                }
             }
 
             //print("LEFT: " + _leftShoulderJoint.ToQuaternion().eulerAngles.z + " , RIGHT: " + _rightShoulderJoint.ToQuaternion().eulerAngles.z);
@@ -286,11 +334,11 @@ public class AddiController : MonoBehaviour
     {
         if (_gameManager.GameState == GameManager.GameStateType.Playing)
         {
-            if (_Jump)
+            if (_jump)
             {
                 AddiAC.SetTrigger("Jump");
                 _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
-                _Jump = false;
+                _jump = false;
 
                 JumpAndGlideAudioSource.loop = false;
                 JumpAndGlideAudioSource.clip = JumpAudioClip;
@@ -411,8 +459,7 @@ public class AddiController : MonoBehaviour
         if (UseNuitrack)
         {
             if (CurrentUserTracker.CurrentUser == 1)
-            {                
-                _userDetected = true;
+            {
                 _skeleton = CurrentUserTracker.CurrentSkeleton;
 
                 _leftAnkleJoint = _skeleton.GetJoint(nuitrack.JointType.LeftAnkle);
@@ -426,20 +473,60 @@ public class AddiController : MonoBehaviour
                 
                 _headJoint = _skeleton.GetJoint(nuitrack.JointType.Head);
 
-                if (!StartingPositionSet)
+                if (CheckForTPose())
                 {
-                    _leftHipStartingPosition = _leftHipJoint.ToVector3();
-                    _rightHipStartingPosition = _rightHipJoint.ToVector3();
+                    if (_currentTimer > 0.0f)
+                    {
+                        _currentTimer -= Time.deltaTime;
+                    }
+                    else
+                    {
+                        if (!StartingPositionSet)
+                        {
+                            _leftHipStartingPosition = _leftHipJoint.ToVector3();
+                            _rightHipStartingPosition = _rightHipJoint.ToVector3();
 
-                    MessureHeight();
+                            MessureHeight();
 
-                    StartingPositionSet = true;
+                            StartingPositionSet = true;
+
+                            _userDetected = true;
+                        }
+                    }
                 }
             }
             else
             {
+                _currentTimer = _startTimer;
                 _userDetected = false;
+                StartingPositionSet = false;
+
+                _crouch = false;
+                _jump = false;
+                _glide = false;
+
+                AddiAC.SetBool("Crouching", false);
+                AddiAC.SetBool("Falling", false);
+                AddiAC.SetBool("Glide", false);
+
+                AddiAC.ResetTrigger("Jump");
             }
+        }
+    }
+
+    private bool CheckForTPose()
+    {
+        //print("LEFT: " + _leftShoulderJoint.ToQuaternion().eulerAngles.z + ", RIGHT: " + _rightShoulderJoint.ToQuaternion().eulerAngles.z);
+
+        if((_rightShoulderJoint.ToQuaternion().eulerAngles.z > 330 || _rightShoulderJoint.ToQuaternion().eulerAngles.z < 30) &&
+            (_leftShoulderJoint.ToQuaternion().eulerAngles.z > 330 || _leftShoulderJoint.ToQuaternion().eulerAngles.z < 30))
+        {
+            return true;
+        }
+        else
+        {
+            _currentTimer = _startTimer;
+            return false;
         }
     }
 
