@@ -19,7 +19,17 @@ public class ScoreManager : MonoBehaviour
     public Text FinalScoreText;
 
     [Space(10.0f)]
+    public Text NumberOfSquatsText;
+    public Text NumberOfJumpsText;
+    public Text NumberOfGlidesText;
+
+    [Space(10.0f)]
     public int TotalScore;
+
+    [Space(10.0f)]
+    public int NumberOfSquats = 0;
+    public int NumberOfJumps = 0;
+    public int NumberOfGlides = 0;
    
     private GameManager _gameManager;
 
@@ -97,7 +107,14 @@ public class ScoreManager : MonoBehaviour
                 HighScoreText.text = "High Score: " + loadedData.HighScore;
                 PlayerScoreText.text = "Your Score: " + TotalScore;
             }
-        }        
+        }
+
+        ShowStatistics();
+    }
+
+    private void ShowStatistics()
+    {
+        NumberOfJumpsText.text = "Jumps executed: " + NumberOfJumps;
     }
 
     public void DeleteSavedData()

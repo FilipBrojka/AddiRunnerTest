@@ -86,7 +86,7 @@ public class AddiController : MonoBehaviour
     private float _currentSpeed;
     private float _playerHeight;
 
-    private float _startTimer = 3.0f;
+    private float _startTimer = 1.0f;
     private float _currentTimer;
 
     private bool _jump = false;    
@@ -194,7 +194,7 @@ public class AddiController : MonoBehaviour
             _glide = false;
         }
 
-        if(Grounded && Input.GetKey(KeyCode.LeftControl))
+        if(Input.GetKey(KeyCode.LeftControl))
         {
             _crouch = true;
         }
@@ -226,7 +226,11 @@ public class AddiController : MonoBehaviour
             {
                 if (Grounded && (_rightHipJoint.ToVector3().y > _rightHipStartingPosition.y + JumpThreshold * _playerHeight || _leftHipJoint.ToVector3().y > _leftHipStartingPosition.y + JumpThreshold * _playerHeight))
                 {
-                    _jump = true;
+                    if (!_jump)
+                    {
+                        _jump = true;
+                        _scoreManager.NumberOfJumps++;
+                    }
                 }
 
                 if (!Grounded && (_rightShoulderJoint.ToQuaternion().eulerAngles.z > 270 && _rightShoulderJoint.ToQuaternion().eulerAngles.z < 360) ||
@@ -336,7 +340,15 @@ public class AddiController : MonoBehaviour
         {
             if (_jump)
             {
-                AddiAC.SetTrigger("Jump");
+                if (!AddiAC.GetCurrentAnimatorStateInfo(0).IsName("AddiToJump") && !AddiAC.GetCurrentAnimatorStateInfo(0).IsName("AddiJump"))
+                {
+                    AddiAC.SetTrigger("Jump");
+                }
+                else
+                {
+                    AddiAC.ResetTrigger("Jump");
+                }
+
                 _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, JumpForce * Time.deltaTime);
                 _jump = false;
 
