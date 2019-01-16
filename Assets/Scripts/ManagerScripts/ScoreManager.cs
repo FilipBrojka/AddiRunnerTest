@@ -11,6 +11,9 @@ public class ScoreManager : MonoBehaviour
     public Canvas AreYouSureCanvas;
 
     [Space(10.0f)]
+    public GameObject NewHighScoreBaloons;
+
+    [Space(10.0f)]
     public Text HighScoreText;
     public Text PlayerScoreText;    
 
@@ -86,6 +89,8 @@ public class ScoreManager : MonoBehaviour
             HighScoreText.text = "New High Score: " + TotalScore;
             PlayerScoreText.text = "Your Score: " + TotalScore;
 
+            NewHighScoreBaloons.SetActive(true);
+
             HighScoreData highScoreData = new HighScoreData();
             BinarySerializer.Save(highScoreData);
         }
@@ -101,6 +106,8 @@ public class ScoreManager : MonoBehaviour
 
                 HighScoreText.text = "New High Score: " + TotalScore;
                 PlayerScoreText.text = "Your Score: " + TotalScore;
+
+                NewHighScoreBaloons.SetActive(true);
             }
             else
             {
@@ -115,6 +122,8 @@ public class ScoreManager : MonoBehaviour
     private void ShowStatistics()
     {
         NumberOfJumpsText.text = "Jumps executed: " + NumberOfJumps;
+        NumberOfGlidesText.text = "Glides executed: " + NumberOfGlides;
+        NumberOfSquatsText.text = "Squats executed: " + NumberOfSquats;
     }
 
     public void DeleteSavedData()

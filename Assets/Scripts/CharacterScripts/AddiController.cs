@@ -239,6 +239,10 @@ public class AddiController : MonoBehaviour
                     if ((_leftShoulderJoint.ToQuaternion().eulerAngles.z > 0 && _leftShoulderJoint.ToQuaternion().eulerAngles.z < 90) ||
                         (_leftShoulderJoint.ToQuaternion().eulerAngles.z <= 360 && _leftShoulderJoint.ToQuaternion().eulerAngles.z > 300))
                     {
+                        if (!_glide)
+                        {                            
+                            _scoreManager.NumberOfGlides++;
+                        }
                         _glide = true;
                     }
                 }
@@ -251,6 +255,10 @@ public class AddiController : MonoBehaviour
 
                 if (_rightHipJoint.ToVector3().y < _rightHipStartingPosition.y - CrouchThreshold * _playerHeight || _leftHipJoint.ToVector3().y < _leftHipStartingPosition.y - CrouchThreshold * _playerHeight)
                 {
+                    if(!_crouch)
+                    {
+                        _scoreManager.NumberOfSquats++;
+                    }
                     _crouch = true;
                 }
                 else

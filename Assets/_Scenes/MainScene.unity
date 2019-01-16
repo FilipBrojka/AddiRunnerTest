@@ -259,7 +259,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &213520308
 RectTransform:
   m_ObjectHideFlags: 0
@@ -988,7 +988,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851773361}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -2860,6 +2860,7 @@ MonoBehaviour:
   EndGameCanvas: {fileID: 851773364}
   SettingsCanvas: {fileID: 2030063147}
   AreYouSureCanvas: {fileID: 662658724}
+  NewHighScoreBaloons: {fileID: 213520307}
   HighScoreText: {fileID: 315365330}
   PlayerScoreText: {fileID: 285153369}
   TotalScoreText: {fileID: 938461064}
@@ -3438,6 +3439,11 @@ PrefabInstance:
         type: 3}
       propertyPath: UseNuitrack
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
+        type: 3}
+      propertyPath: CrouchThreshold
+      value: 50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}
