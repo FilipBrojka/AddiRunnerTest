@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        GameState = GameStateType.Idle;
+        //GameState = GameStateType.Idle;
     }
 
     public void RestartLevel()

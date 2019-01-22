@@ -404,7 +404,10 @@ public class AddiController : MonoBehaviour
 
             if(!Grounded)
             {
-                AddiAC.SetBool("Falling", true);
+                if (_rigidbody.velocity.y < 0.0f)
+                {
+                    AddiAC.SetBool("Falling", true);
+                }
 
                 if(JumpAndGlideAudioSource.clip != FallingAudioClip && _rigidbody.velocity.y < 0.0f)
                 {
