@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AddiController : MonoBehaviour
 {
@@ -55,6 +56,9 @@ public class AddiController : MonoBehaviour
     public AudioClip GlideAudioClip;
     public AudioClip FallingAudioClip;
     public AudioClip CrouchAudioClip;
+
+    [Space(10.0f)]
+    public Text AreYouReadyText;
 
     private ScoreManager _scoreManager;
     private GameManager _gameManager;
@@ -506,6 +510,11 @@ public class AddiController : MonoBehaviour
                     {
                         if (!StartingPositionSet)
                         {
+                            if (AreYouReadyText.enabled)
+                            {
+                                AreYouReadyText.enabled = false;
+                            }
+
                             _leftHipStartingPosition = _leftHipJoint.ToVector3();
                             _rightHipStartingPosition = _rightHipJoint.ToVector3();
 
@@ -520,6 +529,8 @@ public class AddiController : MonoBehaviour
             }
             else
             {
+                AreYouReadyText.enabled = true;
+
                 _currentTimer = _startTimer;
                 _userDetected = false;
                 StartingPositionSet = false;
@@ -547,7 +558,7 @@ public class AddiController : MonoBehaviour
             return true;
         }
         else
-        {
+        {            
             _currentTimer = _startTimer;
             return false;
         }
