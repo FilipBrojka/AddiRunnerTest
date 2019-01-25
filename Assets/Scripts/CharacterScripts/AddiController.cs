@@ -50,6 +50,7 @@ public class AddiController : MonoBehaviour
     public AudioSource RunAudioSource;
     public AudioSource JumpAndGlideAudioSource;
     public AudioSource CrouchAudioSource;
+    public AudioSource StartAudioSource;
 
     [Space(10.0f)]
     public AudioClip JumpAudioClip;
@@ -123,17 +124,21 @@ public class AddiController : MonoBehaviour
         _previousPosition = _transform.position;
 
         _currentTimer = _startTimer;
-
+        
         if(!UseNuitrack)
         {
             _userDetected = true;
+        }
+        else
+        {
+            NuitrackManager.SkeletonTracker.SetNumActiveUsers(1);
         }
     }
 
     private void Update()
     {
         CheckIfUserDetected();
-        CheckDistanceFromCamera();
+        //CheckDistanceFromCamera();
         CheckIfGrounded();
         CheckForInput();
     }
@@ -485,7 +490,7 @@ public class AddiController : MonoBehaviour
     {
         if (UseNuitrack)
         {
-            if (CurrentUserTracker.CurrentUser == 1)
+            if (CurrentUserTracker.CurrentUser != 0)
             {
                 _skeleton = CurrentUserTracker.CurrentSkeleton;
 
@@ -500,29 +505,34 @@ public class AddiController : MonoBehaviour
                 
                 _headJoint = _skeleton.GetJoint(nuitrack.JointType.Head);
 
-                if (CheckForTPose())
+                if(_gameManager.GameState == GameManager.GameStateType.Playing)
                 {
-                    if (_currentTimer > 0.0f)
+                    if (CheckForTPose())
                     {
-                        _currentTimer -= Time.deltaTime;
-                    }
-                    else
-                    {
-                        if (!StartingPositionSet)
+                        if (_currentTimer > 0.0f)
                         {
-                            if (AreYouReadyText.enabled)
+                            _currentTimer -= Time.deltaTime;
+                        }
+                        else
+                        {
+                            if (!StartingPositionSet)
                             {
-                                AreYouReadyText.enabled = false;
+                                if (AreYouReadyText.enabled)
+                                {
+                                    AreYouReadyText.enabled = false;
+                                }
+
+                                _leftHipStartingPosition = _leftHipJoint.ToVector3();
+                                _rightHipStartingPosition = _rightHipJoint.ToVector3();
+
+                                MessureHeight();
+
+                                StartingPositionSet = true;
+
+                                _userDetected = true;
+
+                                _currentTimer = 1.0f;
                             }
-
-                            _leftHipStartingPosition = _leftHipJoint.ToVector3();
-                            _rightHipStartingPosition = _rightHipJoint.ToVector3();
-
-                            MessureHeight();
-
-                            StartingPositionSet = true;
-
-                            _userDetected = true;
                         }
                     }
                 }
@@ -577,6 +587,11 @@ public class AddiController : MonoBehaviour
     public void StartPlaying()
     {
         _gameManager.GameState = GameManager.GameStateType.Playing;
+    }
+
+    public void PlayStartSound()
+    {
+        StartAudioSource.enabled = true;
     }
 
     private void OnDrawGizmosSelected()

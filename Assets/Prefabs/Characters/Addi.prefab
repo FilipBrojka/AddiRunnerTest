@@ -577,7 +577,7 @@ Transform:
   m_GameObject: {fileID: 2234918614881640330}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_Children:
   - {fileID: 2234918616287714752}
   - {fileID: 1281301040}
@@ -621,7 +621,7 @@ SpriteRenderer:
   m_SortingLayerID: -1006563521
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f5d61bae0408f994b8fa0885abde9ab6, type: 3}
+  m_Sprite: {fileID: 21300024, guid: f5d61bae0408f994b8fa0885abde9ab6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -716,7 +716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b67cf748a278654eb10e655a2bf00c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UseNuitrack: 0
+  UseNuitrack: 1
   GroundMask:
     serializedVersion: 2
     m_Bits: 512
@@ -733,7 +733,7 @@ MonoBehaviour:
   FastFallGravityForce: -50
   GlidingSpeed: -50
   JumpForce: 750
-  JumpThreshold: 10
+  JumpThreshold: 20
   CrouchThreshold: 50
   StartingPositionSet: 0
   SpeedIncrementDistance: fa0000002c0100005e01000090010000f4010000
@@ -743,10 +743,12 @@ MonoBehaviour:
   RunAudioSource: {fileID: 1828705671}
   JumpAndGlideAudioSource: {fileID: 5396874042264760316}
   CrouchAudioSource: {fileID: 1164082252}
+  StartAudioSource: {fileID: 1000501157}
   JumpAudioClip: {fileID: 8300000, guid: 5a30ef39e5e3b7b4a8aa4a803a042e7b, type: 3}
   GlideAudioClip: {fileID: 8300000, guid: f48aff56da16371448e1741e55c91d45, type: 3}
   FallingAudioClip: {fileID: 8300000, guid: ee4dc33b78e171047a6b6bd6a7bbe5c4, type: 3}
   CrouchAudioClip: {fileID: 8300000, guid: 61fba8d0fad4f3647b3272c655d73678, type: 3}
+  AreYouReadyText: {fileID: 0}
 --- !u!1 &2234918616287714753
 GameObject:
   m_ObjectHideFlags: 0

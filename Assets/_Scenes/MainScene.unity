@@ -643,7 +643,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1123,7 +1123,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &908838607
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1272,6 +1272,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11436578, guid: e999ace05c586574fa1b964016f28531, type: 3}
+      propertyPath: userTrackerModuleOn
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e999ace05c586574fa1b964016f28531, type: 3}
 --- !u!1 &938461062
@@ -1370,7 +1374,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1018857220
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2239,7 +2243,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1520845932
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2881,7 +2885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02d42bff452ab374792bfce585aec087, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameState: 0
+  GameState: 2
   ManagerPlatform: {fileID: 0}
   Score: {fileID: 0}
 --- !u!4 &1789353484
@@ -2912,16 +2916,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Platforms:
   - {fileID: 8978173163401319230, guid: d7e488954f67866459a6347fee27bca6, type: 3}
-  - {fileID: 8978173163401319230, guid: 5e0c2da04c80b334b8419417e66f4751, type: 3}
+  - {fileID: 2061884530064310877, guid: cd41e829ce7443f429bd1fa27b09dbc1, type: 3}
   - {fileID: 8978173163401319230, guid: 96ccd7e5970da5a4c9382b183554bc90, type: 3}
   - {fileID: 8978173163401319230, guid: e968233454a9a9347bc09a9c63e14733, type: 3}
   - {fileID: 8978173163401319230, guid: e2fc20905f9846f42a2b11b6ae13b155, type: 3}
   - {fileID: 8978173163401319230, guid: 9d25ac0494e1ca84998892dcf2bc2983, type: 3}
   - {fileID: 8978173163401319230, guid: cab8af5e2940e004db242f6696c9c3d6, type: 3}
   - {fileID: 3750684232131316025, guid: 1b08e8b5ba5fc334ea4d95531704124e, type: 3}
-  - {fileID: 3750684232131316025, guid: 6572a0218952b3a4ba733f7ef08f2109, type: 3}
-  - {fileID: 2061884530064310877, guid: cd41e829ce7443f429bd1fa27b09dbc1, type: 3}
-  - {fileID: 8630173378428191224, guid: 5f0329453aae621479caa659bd376ed9, type: 3}
   SpawnPoint: {fileID: 2081356669}
   PreviousPlatform: {fileID: 2081356668}
 --- !u!114 &1789353486
@@ -3508,36 +3509,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640334, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640334, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640335, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
-        type: 3}
-      propertyPath: UseNuitrack
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
         type: 3}

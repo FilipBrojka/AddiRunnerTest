@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: 9a976c6dd0112cf4a8662778a3bb7e41
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Addi_Glide_SpriteSheet_0
+    21300002: Addi_Glide_SpriteSheet_1
+    21300004: Addi_Glide_SpriteSheet_2
+    21300006: Addi_Glide_SpriteSheet_3
+    21300008: Addi_Glide_SpriteSheet_4
+    21300010: Addi_Glide_SpriteSheet_5
+    21300012: Addi_Glide_SpriteSheet_6
+    21300014: Addi_Glide_SpriteSheet_7
+    21300016: Addi_Glide_SpriteSheet_8
+    21300018: Addi_Glide_SpriteSheet_9
+    21300020: Addi_Glide_SpriteSheet_10
+    21300022: Addi_Glide_SpriteSheet_11
+    21300024: Addi_Glide_SpriteSheet_12
+    21300026: Addi_Glide_SpriteSheet_13
+    21300028: Addi_Glide_SpriteSheet_14
+    21300030: Addi_Glide_SpriteSheet_15
+    21300032: Addi_Glide_SpriteSheet_16
+    21300034: Addi_Glide_SpriteSheet_17
+    21300036: Addi_Glide_SpriteSheet_18
+    21300038: Addi_Glide_SpriteSheet_19
+    21300040: Addi_Glide_SpriteSheet_20
+    21300042: Addi_Glide_SpriteSheet_21
+    21300044: Addi_Glide_SpriteSheet_22
+    21300046: Addi_Glide_SpriteSheet_23
+    21300048: Addi_Glide_SpriteSheet_24
+    21300050: Addi_Glide_SpriteSheet_25
+    21300052: Addi_Glide_SpriteSheet_26
+    21300054: Addi_Glide_SpriteSheet_27
+    21300056: Addi_Glide_SpriteSheet_28
+    21300058: Addi_Glide_SpriteSheet_29
+    21300060: Addi_Glide_SpriteSheet_30
+    21300062: Addi_Glide_SpriteSheet_31
+    21300064: Addi_Glide_SpriteSheet_32
+    21300066: Addi_Glide_SpriteSheet_33
+    21300068: Addi_Glide_SpriteSheet_34
+    21300070: Addi_Glide_SpriteSheet_35
+    21300072: Addi_Glide_SpriteSheet_36
+    21300074: Addi_Glide_SpriteSheet_37
+    21300076: Addi_Glide_SpriteSheet_38
+    21300078: Addi_Glide_SpriteSheet_39
+    21300080: Addi_Glide_SpriteSheet_40
+    21300082: Addi_Glide_SpriteSheet_41
+    21300084: Addi_Glide_SpriteSheet_42
+    21300086: Addi_Glide_SpriteSheet_43
+    21300088: Addi_Glide_SpriteSheet_44
+    21300090: Addi_Glide_SpriteSheet_45
+    21300092: Addi_Glide_SpriteSheet_46
+    21300094: Addi_Glide_SpriteSheet_47
+    21300096: Addi_Glide_SpriteSheet_48
+    21300098: Addi_Glide_SpriteSheet_49
+    21300100: Addi_Glide_SpriteSheet_50
+    21300102: Addi_Glide_SpriteSheet_51
+    21300104: Addi_Glide_SpriteSheet_52
+    21300106: Addi_Glide_SpriteSheet_53
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1010
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc8c9b5150de541828a8670f8596c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3c2272ac28ee4cb360d55c480d9f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9677bbc4d432b794e992572e594d5020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2ebb401d43124d80764f0749f61db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af97e261f6e4a4782833e585a8e948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a734947441d5741b54ff8342c5441d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b915d876364742a8fb48a7e5a1dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ee398760aa4e498602db3a8b323bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586859a3aaf236a47903851854f22ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244d9bdbfc80334989d0389297b8ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9afac5774b3184fac6a592bf2e41ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb2a5a7fd492e4287388c8d2a38eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e727aebd78fb114b97064969bbfb395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd579c4e4958f04bb98b90a5ae0a3ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffbeb22b94b5734ba803b4a5d253026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e5a65818bddb44a38a6ea1f5f91eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27a3e4bacf26347bdc50839fb786eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75673673f44b4a54cb7695633afcd533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4887e877451d347835d988dcd39a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96412ebaaf5a2504e9aeca4f971bcb16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcbf35ad3cd8d343bdd58db2ad48e7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e64127796f5a27449cb5fbb51944877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424a73c8ed06444999605801f377207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a4c1ee1e353a4b80a214740852665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aae0f874208084f8317af56e807891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a739bacd6dd5fc4aa156460f2fc8d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fee258f91313d498682611d52d7875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ca954115d86544b49b89623a26eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfecb08d52838814182c754bfa1cb519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbad0a14d752414186b254abd702ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5407ac788d571448f2f025c4f64169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bed82d1ee5bd8546ada9429a22d7a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb0fbb53ba5a8419128f98f9fab5f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2acad41c7c4f4cb2e248ef89dd1ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00aebdb533eb5b48afde6bb74494032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd84f27bed72342b8e488e48ca09ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04084d04842086540b24547bc3447ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688a9298bbde90488bb35f6ff3c4db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7834b9950a649cc4d849c38519be5631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750584ccf7644bd4e98f0105071462dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1237ea49dee0e4bbd7d2210829885c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89699dd97d4b84a9b75cdf1c24bf37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d040ff27f4a69a4abcb1d6d138f18f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc09c7ec06d8214cbaec02fe0b7435a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37d7b8e08f78c41960e486f23e1b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5304efe217b7031478b5505f95d0284d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861548bf8bceb5b48b5b29dc0df25dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5400697c07db14598fd0f1baa39258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696f566346cd484db613ba6208fe1d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14280a4582c33a24a924abea08832db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd292b0229adae4e92af60aa0fc012f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3d5fc850ce3d4b9bb955eb18e1a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04210bb149b4245930a59f34d095a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Glide_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b688ca640e19478fe611ccc496913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 171c154fbf257be47ad1f24a381303b4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

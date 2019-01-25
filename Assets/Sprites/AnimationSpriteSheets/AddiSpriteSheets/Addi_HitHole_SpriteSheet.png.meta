@@ -1,7 +1,126 @@
 fileFormatVersion: 2
 guid: db7ca795d7765564f960029b3ea25fff
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Addi_HitHole_SpriteSheet_0
+    21300002: Addi_HitHole_SpriteSheet_1
+    21300004: Addi_HitHole_SpriteSheet_2
+    21300006: Addi_HitHole_SpriteSheet_3
+    21300008: Addi_HitHole_SpriteSheet_4
+    21300010: Addi_HitHole_SpriteSheet_5
+    21300012: Addi_HitHole_SpriteSheet_6
+    21300014: Addi_HitHole_SpriteSheet_7
+    21300016: Addi_HitHole_SpriteSheet_8
+    21300018: Addi_HitHole_SpriteSheet_9
+    21300020: Addi_HitHole_SpriteSheet_10
+    21300022: Addi_HitHole_SpriteSheet_11
+    21300024: Addi_HitHole_SpriteSheet_12
+    21300026: Addi_HitHole_SpriteSheet_13
+    21300028: Addi_HitHole_SpriteSheet_14
+    21300030: Addi_HitHole_SpriteSheet_15
+    21300032: Addi_HitHole_SpriteSheet_16
+    21300034: Addi_HitHole_SpriteSheet_17
+    21300036: Addi_HitHole_SpriteSheet_18
+    21300038: Addi_HitHole_SpriteSheet_19
+    21300040: Addi_HitHole_SpriteSheet_20
+    21300042: Addi_HitHole_SpriteSheet_21
+    21300044: Addi_HitHole_SpriteSheet_22
+    21300046: Addi_HitHole_SpriteSheet_23
+    21300048: Addi_HitHole_SpriteSheet_24
+    21300050: Addi_HitHole_SpriteSheet_25
+    21300052: Addi_HitHole_SpriteSheet_26
+    21300054: Addi_HitHole_SpriteSheet_27
+    21300056: Addi_HitHole_SpriteSheet_28
+    21300058: Addi_HitHole_SpriteSheet_29
+    21300060: Addi_HitHole_SpriteSheet_30
+    21300062: Addi_HitHole_SpriteSheet_31
+    21300064: Addi_HitHole_SpriteSheet_32
+    21300066: Addi_HitHole_SpriteSheet_33
+    21300068: Addi_HitHole_SpriteSheet_34
+    21300070: Addi_HitHole_SpriteSheet_35
+    21300072: Addi_HitHole_SpriteSheet_36
+    21300074: Addi_HitHole_SpriteSheet_37
+    21300076: Addi_HitHole_SpriteSheet_38
+    21300078: Addi_HitHole_SpriteSheet_39
+    21300080: Addi_HitHole_SpriteSheet_40
+    21300082: Addi_HitHole_SpriteSheet_41
+    21300084: Addi_HitHole_SpriteSheet_42
+    21300086: Addi_HitHole_SpriteSheet_43
+    21300088: Addi_HitHole_SpriteSheet_44
+    21300090: Addi_HitHole_SpriteSheet_45
+    21300092: Addi_HitHole_SpriteSheet_46
+    21300094: Addi_HitHole_SpriteSheet_47
+    21300096: Addi_HitHole_SpriteSheet_48
+    21300098: Addi_HitHole_SpriteSheet_49
+    21300100: Addi_HitHole_SpriteSheet_50
+    21300102: Addi_HitHole_SpriteSheet_51
+    21300104: Addi_HitHole_SpriteSheet_52
+    21300106: Addi_HitHole_SpriteSheet_53
+    21300108: Addi_HitHole_SpriteSheet_54
+    21300110: Addi_HitHole_SpriteSheet_55
+    21300112: Addi_HitHole_SpriteSheet_56
+    21300114: Addi_HitHole_SpriteSheet_57
+    21300116: Addi_HitHole_SpriteSheet_58
+    21300118: Addi_HitHole_SpriteSheet_59
+    21300120: Addi_HitHole_SpriteSheet_60
+    21300122: Addi_HitHole_SpriteSheet_61
+    21300124: Addi_HitHole_SpriteSheet_62
+    21300126: Addi_HitHole_SpriteSheet_63
+    21300128: Addi_HitHole_SpriteSheet_64
+    21300130: Addi_HitHole_SpriteSheet_65
+    21300132: Addi_HitHole_SpriteSheet_66
+    21300134: Addi_HitHole_SpriteSheet_67
+    21300136: Addi_HitHole_SpriteSheet_68
+    21300138: Addi_HitHole_SpriteSheet_69
+    21300140: Addi_HitHole_SpriteSheet_70
+    21300142: Addi_HitHole_SpriteSheet_71
+    21300144: Addi_HitHole_SpriteSheet_72
+    21300146: Addi_HitHole_SpriteSheet_73
+    21300148: Addi_HitHole_SpriteSheet_74
+    21300150: Addi_HitHole_SpriteSheet_75
+    21300152: Addi_HitHole_SpriteSheet_76
+    21300154: Addi_HitHole_SpriteSheet_77
+    21300156: Addi_HitHole_SpriteSheet_78
+    21300158: Addi_HitHole_SpriteSheet_79
+    21300160: Addi_HitHole_SpriteSheet_80
+    21300162: Addi_HitHole_SpriteSheet_81
+    21300164: Addi_HitHole_SpriteSheet_82
+    21300166: Addi_HitHole_SpriteSheet_83
+    21300168: Addi_HitHole_SpriteSheet_84
+    21300170: Addi_HitHole_SpriteSheet_85
+    21300172: Addi_HitHole_SpriteSheet_86
+    21300174: Addi_HitHole_SpriteSheet_87
+    21300176: Addi_HitHole_SpriteSheet_88
+    21300178: Addi_HitHole_SpriteSheet_89
+    21300180: Addi_HitHole_SpriteSheet_90
+    21300182: Addi_HitHole_SpriteSheet_91
+    21300184: Addi_HitHole_SpriteSheet_92
+    21300186: Addi_HitHole_SpriteSheet_93
+    21300188: Addi_HitHole_SpriteSheet_94
+    21300190: Addi_HitHole_SpriteSheet_95
+    21300192: Addi_HitHole_SpriteSheet_96
+    21300194: Addi_HitHole_SpriteSheet_97
+    21300196: Addi_HitHole_SpriteSheet_98
+    21300198: Addi_HitHole_SpriteSheet_99
+    21300200: Addi_HitHole_SpriteSheet_100
+    21300202: Addi_HitHole_SpriteSheet_101
+    21300204: Addi_HitHole_SpriteSheet_102
+    21300206: Addi_HitHole_SpriteSheet_103
+    21300208: Addi_HitHole_SpriteSheet_104
+    21300210: Addi_HitHole_SpriteSheet_105
+    21300212: Addi_HitHole_SpriteSheet_106
+    21300214: Addi_HitHole_SpriteSheet_107
+    21300216: Addi_HitHole_SpriteSheet_108
+    21300218: Addi_HitHole_SpriteSheet_109
+    21300220: Addi_HitHole_SpriteSheet_110
+    21300222: Addi_HitHole_SpriteSheet_111
+    21300224: Addi_HitHole_SpriteSheet_112
+    21300226: Addi_HitHole_SpriteSheet_113
+    21300228: Addi_HitHole_SpriteSheet_114
+    21300230: Addi_HitHole_SpriteSheet_115
+    21300232: Addi_HitHole_SpriteSheet_116
+    21300234: Addi_HitHole_SpriteSheet_117
+    21300236: Addi_HitHole_SpriteSheet_118
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -93,7 +212,2387 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31a898859805141a26a5803f22fc74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d3ac75d204b9428e796c7fb9a1834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09154793051e0438796b93392c3968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f4f22b07691b44b0a53aa7f84455a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3691908c6f8441ae1b67c9e6336ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667fe729230c38943b730d7cf6df5f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ca9de0494bb745b7b26d412974e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733dad829503c748be782461cb475fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fd931b6483144c9106bd04bcda9a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046718fc15951d54cae97968badec088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 10100
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef842457d088904bb6b8b3d6f9214e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e7b68ae5f4ef4b8609d997bf8a858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7f69e88725d145b4d87929d927253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e992cf85005dfd4b8f94ef81dfd149b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2608d488b2ed49848980af390a50b66a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ae5c1587bb5c4fb5195e10b630d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cb12478c100548ad7073c449aebd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286223a6fc56a34ea392c0abfdfbead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04dfc17f666bcc42a8a9f8716464b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13084aa141f5304eb143ea6c62f7edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2eee23022abb429e715ed25d97e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 9090
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c71203f9c1d14196334ed81e1ff72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e2f8d4cdafed74bb41e009180779e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8444f42a860084cb0a7801072b4f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87bad1c1cc91e14dae3e4775dbf1832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f7de1a72645e45850f63d866f8278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0fa7e27026b3e42a0818258bda79c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cacb2a3e9f3ce4380e0d9a6331310f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168f97ce3644254cbba7ea20375f35c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf88ae254ec370408742bd14b6c72c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d9bdef6bbc0f4db095bfced73d8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00edd007f8a6874eb0b04b590436b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 8080
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df89dd5cf813f4983117941b0ce06f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd44ffc350da2540a3b7a3563d27d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88677dd479d0adf44936fee7abef40ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b72d0ec0175e446a11f6e293a7bce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d01d830d4b937a4d9f87e5a026d2e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b9b4444fee0144b9c56dbad112a84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8b8255488461748b7cd072df44863a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf79a87c0130644da5277f465aaa8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e576fbc509f8942ad05e53ecea6648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d9c67779276e488bfe8b8d45b89b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06817ca9f0f06bd4bb4a2bbde690855a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f208d0de0aa21840bcbd4ec336ee20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebcf20bdba64f645afb9ebe921f7754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d197e7b4d0679c642813caecf71fbf3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f6cc6a10222d409ab1d5ab035d72f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979d80b640967f408726e0ff92216ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c18c29a9dd6c24f9b1eb3b01ae3e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f32ce796e3fabd43bfc74b0f1654fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e05a0525bd63343b1412708dc9437e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1b651a995cf9141be5f7eb31622191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999898ef79241b840b44285bc2cfd685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1639a01129707845bf71e900dc12d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c66fa54f8d16e47939533ef79d9fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123c1955520f534ea89108e55aaa6b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598c59092e61d34f949d7b6060c2b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a1d0489c8b31f4eae9c4398c084b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aada08a37f2ca4a946206616956933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd7308568cb334db0ea061b9675fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7496a6a9ba514a8b6347c0768ef6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a646318d983f344aeb14350b1428fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7ea434fdbffd46a8d53dbab5461e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff39f47d0ea794983a299bc88a4922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca50d97da007848947e62b96047ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd733c6433443834abac99353af6ebd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d77ff57a6c33c04189374c102c30cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c937862764af948bf8274d28d18d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d645b4e872c2f4a478b59036b2b18aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5777af4461ed5d40a1517ef2d34209a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54c150afff3a748bdddf158d7ed36f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0f96828091804787e650d68c09bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7017926e3116440a26ca22e2fbbc9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd7b048edcff349bd9a53c345efb4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9467d2cb1f877b4d86d01319249480e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c676c19e3c0af2498207c2c3a4db7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c90a19f4c826f48a2c753e6eacfb43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba0683f8cd9a643892bbfd7ec1c6c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e986ab03891642aed256cea56feda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e70d3433908a45b9e6f3960daee1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4cc38db39038498fd949c801bfa74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa78b78a723ad45a7104b879c817ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567e8b7b6c471249b097e18a5b91b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aafe2d9ebe7a4c92c17511b772a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b53ef73262124a9682a58c26f313a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a92447c715a584d8d1a9038d838597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31185c16a30f8a4dab65dff0af43394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8779b1e0af8854ca9b0d4312034403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f924fe62f9e6641a079a0dbc643899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0cce9fb7d62244926dde609b2f30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af4f6cc8c1cef4e8ecf9afd98865e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85f70818ff5684b8ed9917d911faef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc64dbd3849a174d8876551cad7b25a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccceaf5a615094ba85b3f4019c64ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7eb3a99d905e04b8d6844267cfc42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f86ebedd22d6484eb332ead10e3597d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd27718f1f77944ae544a53d35167b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9124fde42eabb4d90d67a3d6d7130d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff907c117ea724488d6d9b5ddd0fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f85b807e6ce9347add6c3eda8cc4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2d3f44e3294b40a3e1e5a5a8104cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7802e924e60d14a864717e3be2ba06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db7b93e73b87642840729fb3299c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a75b8a43897514780f99d5dd6c552f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ce91ff5cb36e4fa7896565ce91f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26500858855ec4d880b89ab0e6eb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b791ede96e05340b9d2c45ae8dd301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e6da57c251cc345b993e23dc3c7f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7b6b4ffbaa314d80c9078e87daf35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cea8114ac40d545a8cab8867b0ba59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d723ff738825b4996a4bab5f3fb457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a49c9d5325b354fb8558ed9413ad43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae431d287315164783f2a403ab469ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9c4b11e64fe143a9e292958ad113d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad11a60de86a74e8220aca96caeedc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938a990eb465cb4cbcbc2a8e5d21098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520f9bfa8fe9e04495af390bb23cc1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0054ab1033d7841ada77fa47c43c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitHole_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 8080
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963d2fc5b1d6b148a534624650a9122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
