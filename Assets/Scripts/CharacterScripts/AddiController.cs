@@ -46,6 +46,9 @@ public class AddiController : MonoBehaviour
     [Space(10.0f)]
     public bool Grounded = false;
 
+    [Space(10.0f)]
+    public bool NewHighScoreReached = false;
+
     [Space(20.0f)]
     public AudioSource RunAudioSource;
     public AudioSource JumpAndGlideAudioSource;
@@ -115,7 +118,7 @@ public class AddiController : MonoBehaviour
     private void Start()
     {
         _gameManager = GameManager.instance;
-        _scoreManager = _gameManager.Score;
+        _scoreManager = _gameManager.ScoreManager;
 
         Physics2D.gravity = new Vector2(0.0f, GravityForce);
 

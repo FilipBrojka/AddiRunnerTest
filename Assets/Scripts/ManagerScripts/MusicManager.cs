@@ -7,8 +7,10 @@ public class MusicManager : MonoBehaviour
     public AudioClip StartClip;
     public AudioClip MusicLoop;
     public AudioClip GameOverClip;
+    public AudioClip HappyEndClip;
 
     private GameManager _gameManager;
+    private AddiController _addiController;
 
     private AudioSource _musicAudioSource;
 
@@ -20,6 +22,7 @@ public class MusicManager : MonoBehaviour
     private void Start()
     {
         _gameManager = GameManager.instance;
+        _addiController = GameObject.FindGameObjectWithTag("Player").GetComponent<AddiController>();
     }
 
     private void Update()
@@ -34,12 +37,22 @@ public class MusicManager : MonoBehaviour
 
         if (_gameManager.GameState == GameManager.GameStateType.EndGame)
         {
-            if (_musicAudioSource.isPlaying && _musicAudioSource.clip != GameOverClip)
+            if (_musicAudioSource.isPlaying && _musicAudioSource.clip != GameOverClip && _musicAudioSource.clip != HappyEndClip)
             {
-                _musicAudioSource.Stop();
-                _musicAudioSource.clip = GameOverClip;
-                _musicAudioSource.loop = false;
-                _musicAudioSource.Play();
+                if(_addiController.NewHighScoreReached)
+                {
+                    _musicAudioSource.Stop();
+                    _musicAudioSource.clip = HappyEndClip;
+                    _musicAudioSource.loop = false;
+                    _musicAudioSource.Play();
+                }
+                else
+                {
+                    _musicAudioSource.Stop();
+                    _musicAudioSource.clip = GameOverClip;
+                    _musicAudioSource.loop = false;
+                    _musicAudioSource.Play();
+                }
             }
         }
     }

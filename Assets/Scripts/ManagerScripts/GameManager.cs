@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
 
     [Space(10.0f)]
     public PlatformManager ManagerPlatform;
-    public ScoreManager Score;
+    public ScoreManager ScoreManager;
 
     private void Awake()
     {
@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
         }
 
         ManagerPlatform = GetComponent<PlatformManager>();
-        Score = GetComponent<ScoreManager>();
+        ScoreManager = GetComponent<ScoreManager>();
     }
 
     private void Start()

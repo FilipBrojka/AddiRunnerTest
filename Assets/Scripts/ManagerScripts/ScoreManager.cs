@@ -80,7 +80,7 @@ public class ScoreManager : MonoBehaviour
         AreYouSureCanvas.enabled = false;
     }
 
-    public void CompareNewScoreAndSaveHighScores(int score)
+    public bool CompareNewScoreAndSaveHighScores(int score)
     {
         HighScoreData loadedData = BinarySerializer.Load<HighScoreData>();
 
@@ -93,6 +93,10 @@ public class ScoreManager : MonoBehaviour
 
             HighScoreData highScoreData = new HighScoreData();
             BinarySerializer.Save(highScoreData);
+
+            ShowStatistics();
+
+            return true;
         }
         else
         {
@@ -108,15 +112,21 @@ public class ScoreManager : MonoBehaviour
                 PlayerScoreText.text = "Your Score: " + TotalScore;
 
                 NewHighScoreBaloons.SetActive(true);
+
+                ShowStatistics();
+
+                return true;
             }
             else
             {
                 HighScoreText.text = "High Score: " + loadedData.HighScore;
                 PlayerScoreText.text = "Your Score: " + TotalScore;
-            }
-        }
 
-        ShowStatistics();
+                ShowStatistics();
+
+                return false;
+            }
+        }        
     }
 
     private void ShowStatistics()

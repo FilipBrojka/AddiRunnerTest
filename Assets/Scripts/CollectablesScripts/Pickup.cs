@@ -15,7 +15,7 @@ public class Pickup : MonoBehaviour
 
     private void Start()
     {
-        _scoreManager = GameManager.instance.Score;
+        _scoreManager = GameManager.instance.ScoreManager;
 
         _pickupAC = GetComponent<Animator>();
 

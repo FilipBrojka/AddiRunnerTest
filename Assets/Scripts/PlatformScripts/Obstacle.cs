@@ -18,7 +18,7 @@ public class Obstacle : MonoBehaviour
     private void Start()
     {
         _gameManager = GameManager.instance;
-        _scoreManager = _gameManager.Score;
+        _scoreManager = _gameManager.ScoreManager;
         _addiController = AddiController.instance;        
     }
 
@@ -27,10 +27,7 @@ public class Obstacle : MonoBehaviour
         if(collision.collider.CompareTag("Player"))
         {
             _gameManager.GameState = GameManager.GameStateType.EndGame;
-
-            _scoreManager.CompareNewScoreAndSaveHighScores(_scoreManager.TotalScore);
-            _scoreManager.ShowEndGameCanvas();
-
+            
             _addiController.AddiAC.SetTrigger("HitObstacle");
 
             if(_addiController.AddiAC.GetBool("Glide") || _addiController.AddiAC.GetBool("Falling"))
@@ -44,6 +41,9 @@ public class Obstacle : MonoBehaviour
                 ObstacleHitAudioSource.clip = ObstacleHitClip;
                 ObstacleHitAudioSource.Play();
             }
+
+            _addiController.NewHighScoreReached = _scoreManager.CompareNewScoreAndSaveHighScores(_scoreManager.TotalScore);
+            _scoreManager.ShowEndGameCanvas();
         }
     }
 

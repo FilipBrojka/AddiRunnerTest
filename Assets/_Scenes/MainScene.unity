@@ -312,7 +312,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1198,7 +1198,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 101342, guid: e999ace05c586574fa1b964016f28531, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 449316, guid: e999ace05c586574fa1b964016f28531, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2449,6 +2449,7 @@ MonoBehaviour:
   StartClip: {fileID: 8300000, guid: aafe7883b12544c469a6982da75315f7, type: 3}
   MusicLoop: {fileID: 8300000, guid: 050a80c33956cab479b204d05f112eca, type: 3}
   GameOverClip: {fileID: 8300000, guid: 3367efdf7ca92b14ea08fb3ca0f6abca, type: 3}
+  HappyEndClip: {fileID: 8300000, guid: 151feb75c75ff3c4584941f95eafba76, type: 3}
 --- !u!4 &1606243935 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2234918614881640334, guid: 0e236385cc3c9ff4a816404f66f79b13,
@@ -2887,7 +2888,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameState: 2
   ManagerPlatform: {fileID: 0}
-  Score: {fileID: 0}
+  ScoreManager: {fileID: 0}
 --- !u!4 &1789353484
 Transform:
   m_ObjectHideFlags: 0
@@ -3515,6 +3516,11 @@ PrefabInstance:
       propertyPath: AreYouReadyText
       value: 
       objectReference: {fileID: 610797082}
+    - target: {fileID: 2234918614881640369, guid: 0e236385cc3c9ff4a816404f66f79b13,
+        type: 3}
+      propertyPath: UseNuitrack
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e236385cc3c9ff4a816404f66f79b13, type: 3}
 --- !u!1001 &8911498214183557369
