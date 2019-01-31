@@ -62,7 +62,7 @@ public class AddiController : MonoBehaviour
     public AudioClip CrouchAudioClip;
 
     [Space(10.0f)]
-    public Text AreYouReadyText;
+    public GameObject AreYouReadyText;
 
     private ScoreManager _scoreManager;
     private GameManager _gameManager;
@@ -520,9 +520,9 @@ public class AddiController : MonoBehaviour
                         {
                             if (!StartingPositionSet)
                             {
-                                if (AreYouReadyText.enabled)
+                                if (AreYouReadyText.activeSelf)
                                 {
-                                    AreYouReadyText.enabled = false;
+                                    AreYouReadyText.SetActive(false);
                                 }
 
                                 _leftHipStartingPosition = _leftHipJoint.ToVector3();
@@ -542,7 +542,7 @@ public class AddiController : MonoBehaviour
             }
             else
             {
-                AreYouReadyText.enabled = true;
+                AreYouReadyText.SetActive(true);
 
                 _currentTimer = _startTimer;
                 _userDetected = false;

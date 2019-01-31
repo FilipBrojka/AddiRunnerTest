@@ -1,0 +1,1790 @@
+fileFormatVersion: 2
+guid: b05c0fa838f9c5d439749f6de5b6caa1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Addi_Start_SpriteSheet_0
+    21300002: Addi_Start_SpriteSheet_1
+    21300004: Addi_Start_SpriteSheet_2
+    21300006: Addi_Start_SpriteSheet_3
+    21300008: Addi_Start_SpriteSheet_4
+    21300010: Addi_Start_SpriteSheet_5
+    21300012: Addi_Start_SpriteSheet_6
+    21300014: Addi_Start_SpriteSheet_7
+    21300016: Addi_Start_SpriteSheet_8
+    21300018: Addi_Start_SpriteSheet_9
+    21300020: Addi_Start_SpriteSheet_10
+    21300022: Addi_Start_SpriteSheet_11
+    21300024: Addi_Start_SpriteSheet_12
+    21300026: Addi_Start_SpriteSheet_13
+    21300028: Addi_Start_SpriteSheet_14
+    21300030: Addi_Start_SpriteSheet_15
+    21300032: Addi_Start_SpriteSheet_16
+    21300034: Addi_Start_SpriteSheet_17
+    21300036: Addi_Start_SpriteSheet_18
+    21300038: Addi_Start_SpriteSheet_19
+    21300040: Addi_Start_SpriteSheet_20
+    21300042: Addi_Start_SpriteSheet_21
+    21300044: Addi_Start_SpriteSheet_22
+    21300046: Addi_Start_SpriteSheet_23
+    21300048: Addi_Start_SpriteSheet_24
+    21300050: Addi_Start_SpriteSheet_25
+    21300052: Addi_Start_SpriteSheet_26
+    21300054: Addi_Start_SpriteSheet_27
+    21300056: Addi_Start_SpriteSheet_28
+    21300058: Addi_Start_SpriteSheet_29
+    21300060: Addi_Start_SpriteSheet_30
+    21300062: Addi_Start_SpriteSheet_31
+    21300064: Addi_Start_SpriteSheet_32
+    21300066: Addi_Start_SpriteSheet_33
+    21300068: Addi_Start_SpriteSheet_34
+    21300070: Addi_Start_SpriteSheet_35
+    21300072: Addi_Start_SpriteSheet_36
+    21300074: Addi_Start_SpriteSheet_37
+    21300076: Addi_Start_SpriteSheet_38
+    21300078: Addi_Start_SpriteSheet_39
+    21300080: Addi_Start_SpriteSheet_40
+    21300082: Addi_Start_SpriteSheet_41
+    21300084: Addi_Start_SpriteSheet_42
+    21300086: Addi_Start_SpriteSheet_43
+    21300088: Addi_Start_SpriteSheet_44
+    21300090: Addi_Start_SpriteSheet_45
+    21300092: Addi_Start_SpriteSheet_46
+    21300094: Addi_Start_SpriteSheet_47
+    21300096: Addi_Start_SpriteSheet_48
+    21300098: Addi_Start_SpriteSheet_49
+    21300100: Addi_Start_SpriteSheet_50
+    21300102: Addi_Start_SpriteSheet_51
+    21300104: Addi_Start_SpriteSheet_52
+    21300106: Addi_Start_SpriteSheet_53
+    21300108: Addi_Start_SpriteSheet_54
+    21300110: Addi_Start_SpriteSheet_55
+    21300112: Addi_Start_SpriteSheet_56
+    21300114: Addi_Start_SpriteSheet_57
+    21300116: Addi_Start_SpriteSheet_58
+    21300118: Addi_Start_SpriteSheet_59
+    21300120: Addi_Start_SpriteSheet_60
+    21300122: Addi_Start_SpriteSheet_61
+    21300124: Addi_Start_SpriteSheet_62
+    21300126: Addi_Start_SpriteSheet_63
+    21300128: Addi_Start_SpriteSheet_64
+    21300130: Addi_Start_SpriteSheet_65
+    21300132: Addi_Start_SpriteSheet_66
+    21300134: Addi_Start_SpriteSheet_67
+    21300136: Addi_Start_SpriteSheet_68
+    21300138: Addi_Start_SpriteSheet_69
+    21300140: Addi_Start_SpriteSheet_70
+    21300142: Addi_Start_SpriteSheet_71
+    21300144: Addi_Start_SpriteSheet_72
+    21300146: Addi_Start_SpriteSheet_73
+    21300148: Addi_Start_SpriteSheet_74
+    21300150: Addi_Start_SpriteSheet_75
+    21300152: Addi_Start_SpriteSheet_76
+    21300154: Addi_Start_SpriteSheet_77
+    21300156: Addi_Start_SpriteSheet_78
+    21300158: Addi_Start_SpriteSheet_79
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1010
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdfd74923f8ee74e942a3fdcc836802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f105b20ae1ca48ba4b81be94ae5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10fb108b2298748b4856a279e7b9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7733a573625fa4883e2228a965ae52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b47d6cad78f2c4bb2804d0b1357d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd819b211929349a730af7e23f2db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c291f248d24b4eb8c33c1efdff403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de413ece6dfb2e40a2e62108c5704b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e9ccbb912a2e54a8d81771abc5cb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600d27418d2e0040b79fc4a88c6b914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 10500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ba3909ddf15b4593a996f7f2b608b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c43808ccb303044b9ca509caba0a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e081787eb0f375429fee1b25a8bf40c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17dc70090c3504e9789f08bb9c4f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107372edbf752c4ea58459aed2607ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b8c046e3e8ca4ea672d2a41ce59e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a67282b5862963479bfbcbbf69f240d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c937cda3f4a0ac458998a34d554d78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db755d1bad6a74f8ec5b90d8e6956e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33247906ecb1b7e41abf28fa260cbe85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70825f48f8c8f7941beded314574e4f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 9000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b3e3b03aea61438992cf7ceccdd14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90d3ac9f5115b42b96126c7042a5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72206f43f76358947949ec706250cb65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b300b5fa3700a44da73f7469aecb307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2d545fcabcf141a5d19dd50bcb73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8093164a7efe54a94886d1ec5215aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5aef859956f334e90496027b75f90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4e04b15d08b442bc9a684ba19720c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d877b37f654c9c4a87c13a98e231019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93b0a4095cb8740a25f28b9077f33a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfc73ce641cfd4794f9eaae001cec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 7500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9127eea11c25409457b359652713f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c660bc8e70214dbd3374d28ab577e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3760788748020aa4198279e61e0771c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5d468d01660947b1fbcce3f9e1366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567397b5c6234a4d9ddba6d1c4bd91f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8f7e28c9a0eb7449b31fc6ab429467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b815cb908e0e459ff9276fd095432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c522d6b3c62ad4e9059fcdd039c1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739b0fc9616e4c439468770679cebbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c942426fa40d94aa84dd78bb6f06ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454acdd21721ba845995501b0fac5cd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946966fa4294804ab48e605990f013a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e36e42c83e0a04ebe2d6bd34323073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6bc55ec04a67142b96ac1bd84a7946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd39a10228f1db4d9d4b80ea5c0a22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19284fb827916a442b1df22ffd0530b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b0d924413ce04ea4bc7caca07a5be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0b18e679dc404683b9b0155592b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4b5677efcf4f4aa6f56cffc2373d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455e89de3aa44634296a1bebbcc87c1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd564de66ec8784c8a8c7ec312fe96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39bacd7b8beb441838c2ab0622869a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5533bcb547f34914a9a81783c054f18f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5f1843016d2a44be24342122f9407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d466b4d477597342a36df7eb3d65200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400624a02ab6954e9cd8911a021eef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6bb98f624ed0459e28effd43af704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4d28c653f18b4ab0127f1b7588044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8021375c3c211448a641a571ac6878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420348a7444f614cbc0732b00e0e3e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2fb5d37c17064694676b488e14e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe59c17eb2630449a7d4c3756f17f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bcd9869adcef4583dc6e9f44d2f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3000
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4983c317938d914089a4bdcbfbdd865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2b48a597789c4bbecf70e48b7d42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a1cd612194724a8db90169e63b709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3daac6b3a9934cbd0d93df6ee0c2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226223914ab9dd47ae089db1ff6d70f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c8e9ab5dfba549a29d4a1219e91c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d4f72d1172a194b9d8146682195961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a6b810f3e1db4e9f7f648e0d93b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ba5faa879a6e44942cc510fa58971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c94a6124f36949948a83a2408fb60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38227739417dcc94d872f36011793266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1500
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591032f5d74a4734aafdc66e4dfc56e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41849b09a97fc9459bd7e1cd9de00d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2032d0b5af2b04e9abf265db7cec2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_Start_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e9be2c84e7f0f46a091b9990538a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ddb994fbc93d5854ba0cb1a1c5c485a8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

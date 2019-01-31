@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 7ee2b620fc129e04694f5301666198c1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Addi_HitObstacle_SpriteSheet_0
+    21300002: Addi_HitObstacle_SpriteSheet_1
+    21300004: Addi_HitObstacle_SpriteSheet_2
+    21300006: Addi_HitObstacle_SpriteSheet_3
+    21300008: Addi_HitObstacle_SpriteSheet_4
+    21300010: Addi_HitObstacle_SpriteSheet_5
+    21300012: Addi_HitObstacle_SpriteSheet_6
+    21300014: Addi_HitObstacle_SpriteSheet_7
+    21300016: Addi_HitObstacle_SpriteSheet_8
+    21300018: Addi_HitObstacle_SpriteSheet_9
+    21300020: Addi_HitObstacle_SpriteSheet_10
+    21300022: Addi_HitObstacle_SpriteSheet_11
+    21300024: Addi_HitObstacle_SpriteSheet_12
+    21300026: Addi_HitObstacle_SpriteSheet_13
+    21300028: Addi_HitObstacle_SpriteSheet_14
+    21300030: Addi_HitObstacle_SpriteSheet_15
+    21300032: Addi_HitObstacle_SpriteSheet_16
+    21300034: Addi_HitObstacle_SpriteSheet_17
+    21300036: Addi_HitObstacle_SpriteSheet_18
+    21300038: Addi_HitObstacle_SpriteSheet_19
+    21300040: Addi_HitObstacle_SpriteSheet_20
+    21300042: Addi_HitObstacle_SpriteSheet_21
+    21300044: Addi_HitObstacle_SpriteSheet_22
+    21300046: Addi_HitObstacle_SpriteSheet_23
+    21300048: Addi_HitObstacle_SpriteSheet_24
+    21300050: Addi_HitObstacle_SpriteSheet_25
+    21300052: Addi_HitObstacle_SpriteSheet_26
+    21300054: Addi_HitObstacle_SpriteSheet_27
+    21300056: Addi_HitObstacle_SpriteSheet_28
+    21300058: Addi_HitObstacle_SpriteSheet_29
+    21300060: Addi_HitObstacle_SpriteSheet_30
+    21300062: Addi_HitObstacle_SpriteSheet_31
+    21300064: Addi_HitObstacle_SpriteSheet_32
+    21300066: Addi_HitObstacle_SpriteSheet_33
+    21300068: Addi_HitObstacle_SpriteSheet_34
+    21300070: Addi_HitObstacle_SpriteSheet_35
+    21300072: Addi_HitObstacle_SpriteSheet_36
+    21300074: Addi_HitObstacle_SpriteSheet_37
+    21300076: Addi_HitObstacle_SpriteSheet_38
+    21300078: Addi_HitObstacle_SpriteSheet_39
+    21300080: Addi_HitObstacle_SpriteSheet_40
+    21300082: Addi_HitObstacle_SpriteSheet_41
+    21300084: Addi_HitObstacle_SpriteSheet_42
+    21300086: Addi_HitObstacle_SpriteSheet_43
+    21300088: Addi_HitObstacle_SpriteSheet_44
+    21300090: Addi_HitObstacle_SpriteSheet_45
+    21300092: Addi_HitObstacle_SpriteSheet_46
+    21300094: Addi_HitObstacle_SpriteSheet_47
+    21300096: Addi_HitObstacle_SpriteSheet_48
+    21300098: Addi_HitObstacle_SpriteSheet_49
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1010
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cefd0d34095c71479036c2585481b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392f2f8c0750044895db971a6a4e350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471db4a7b68a7a488e1e6d6870dc3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e82530607a0a684ebd65f55d1fede2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d8a9004635d9429b1098e1df1278d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d086248d3466f043b7459ed999e5762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 7070
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccaa1cbeed2ca545bb3a7db11955ebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265829f623a0b894cae0a2771db3778f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3990c3a5455e3a4d8de97f48d6de2d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12a382aa4206d4e962edee4c3af856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ef146fb4de3b9408c3b0fb48dcc37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f30b8549ba8b40a38abdc74c79c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38abe97c32a574594df57ed6e8a266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 6060
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b61d5d23340ce48803a131405eff2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd720d3a83a8162438d0fe4349ba1fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ad998b425b02448893671e80e4ddfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736066b3d31df24baf5143529892390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ad715fc6ca0c4a9a4ff3e6e6ed5df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5785ed03b98a42999eaa80b02ebc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff7178053bf5c643941cffca5ad4d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 5050
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4766b4f8375ffa84a837f1718fbfd77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d93e27b04af1a647ab0cb165a2e9849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b173a0f95a1fd4ab591e38df12bbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2bce860a749c044aaef7b7442634e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5243085ede3a0574d8f42e25af34898c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937a8414d0a4db943ab596a479f1836d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892cf3653989684e87cd9af5b4b7c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4040
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1299099c6b9448a8f5809903e1426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3164b5459ecd342970191259b0bd53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f7088dfe7368246bc118551351e670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a09a4d6054834c9dfc9ed06a2c23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42882f6b8e302d340a9419cfdfce8bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93adac8a495f5354ab3a8268460e78d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250118906c5e0234391e1dfb88454b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 3030
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668530d0f3b1b3c45ac537d89311b18d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c8801e29bbda4e8abbbb524de5568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8ebee029387f44290a2eb1b9268ca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c73af0e65e5ff488f618f2895ed747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce093f031ccff4e9759e28ca1cdb85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6a1041f521914c9a6319a2211c1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e3abc176aeb54b89fa1ce6cd1fc9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 2020
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf271fb3c930c44862947e8bad3026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7855d873481408409b5d8c3cf8a38cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d41f37d4c883842a8598bfc261f156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc69a802389fb44b69e8b03848045b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3146dc750918834b9c0dd0db71a7cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc87ec3ef1959242a4f8be53cb23b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1255914335a04087174188ff1b485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1010
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc0782802744148a642f8f73261614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Addi_HitObstacle_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1010
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a3fb757e7db204b83ed81e1f19ed41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3510fe902262ffd4da93130013c513b0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
